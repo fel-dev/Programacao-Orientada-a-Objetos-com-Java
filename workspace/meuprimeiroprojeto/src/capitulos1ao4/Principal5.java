@@ -12,7 +12,7 @@ public class Principal5 {
 		System.out.println("Valor custos: " + preco.valorCustos);
 		System.out.println("Valor impostos: " + preco.valorImpostos);
 		System.out.println("Valor lucro: " + preco.valorLucro);
-		System.out.println("Pre�o venda: " + preco.precoVenda);
+		System.out.println("Preço venda: " + preco.precoVenda);
 	}
 	
 }
