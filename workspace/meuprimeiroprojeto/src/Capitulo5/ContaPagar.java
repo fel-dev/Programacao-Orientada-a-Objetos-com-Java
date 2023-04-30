@@ -1,10 +1,10 @@
 package capitulo5;
 
 public class ContaPagar {
-    String descricao;
-    Double valor;
-    String dataVencimento;
-    Fornecedor fornecedor;
+    private String descricao;
+    private Double valor;
+    private String dataVencimento;
+    private Fornecedor fornecedor;
 
     public ContaPagar(Fornecedor fornecedor, String descricao, Double valor, String dataVencimento) {
         this.descricao = descricao;
@@ -17,7 +17,7 @@ public class ContaPagar {
     }
 
     public void pagar() {
-        System.out.println("Pagando conta " + this.descricao + " no valor de " + this.valor + " com vencimento em " + this.dataVencimento + " do fornecedor " + this.fornecedor.getNome());
+        System.out.println("Pagando conta " + this.getDescricao() + " no valor de " + this.getValor() + " com vencimento em " + this.getDataVencimento() + "do fornecedor " + this.getFornecedor().getNome() + "...");
     }
 
     public String getDescricao() {
