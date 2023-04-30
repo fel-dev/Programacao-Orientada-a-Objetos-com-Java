@@ -1,7 +1,13 @@
 package cap05.com.algaworks.curso.fjoo.treinador;
 
+import cap05.com.algaworks.curso.fjoo.animal.Cachorro;
+
 public class DonoCachorro {
-    
+
+	void ensinarCachorroSentar(Cachorro cachorro) {
+		cachorro.sentar();
+	}
+	
 }
 
 
