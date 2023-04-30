@@ -17,7 +17,7 @@ public class ContaPagar {
     }
 
     public void pagar() {
-        System.out.println("Pagando conta " + this.getDescricao() + " no valor de " + this.getValor() + " com vencimento em " + this.getDataVencimento() + "do fornecedor " + this.getFornecedor().getNome() + "...");
+        System.out.println("Pagando conta " + this.getDescricao() + " no valor de " + this.getValor() + " com vencimento em " + this.getDataVencimento() + " do fornecedor " + this.getFornecedor().getNome() + "...");
     }
 
     public String getDescricao() {
