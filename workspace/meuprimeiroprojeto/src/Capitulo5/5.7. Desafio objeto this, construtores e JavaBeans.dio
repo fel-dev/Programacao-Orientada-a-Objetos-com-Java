@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="EJvTBGxbsIG0jWumoYZW" name="Page-1">
+        <mxGraphModel dx="446" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;ContaPaga&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;hr style=&quot;text-align: center;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+descricao: String&lt;/span&gt;&lt;/div&gt;+valor: Double&lt;br&gt;+dataVencimento: String&lt;hr&gt;+ContaPagar()&lt;br&gt;+ContaPaga(fornecedor: Fornecedor, descricao: String, valor: Double, dataVencimento: String)&lt;br&gt;+pagar(): void" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="50" width="300" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="4" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="230" as="sourcePoint"/>
+                        <mxPoint x="200" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="&lt;b&gt;Fornecedor&lt;/b&gt;&lt;hr&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+nome: String&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="235" y="320" width="90" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="+fornecedor&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="240" width="90" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
