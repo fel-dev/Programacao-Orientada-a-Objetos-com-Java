@@ -1,0 +1,1985 @@
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+17/04/2023 17:17:21,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 17:18:33,35 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+17/04/2023 18:54:56,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023  8:40:16,38 LAPTOP-KR197J2 User \Outros computadores\Meu computador\1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+ClassificaProduto.java:1: error: class, interface, enum, or record expected
+public static void main (String[] args) {
+              ^
+ClassificaProduto.java:4: error: class, interface, enum, or record expected
+	int codigoProduto = 0;
+	^
+ClassificaProduto.java:6: error: class, interface, enum, or record expected
+	do {
+	^
+ClassificaProduto.java:9: error: class, interface, enum, or record expected
+		codigoProduto = entrada.nextInt();
+		^
+ClassificaProduto.java:11: error: class, interface, enum, or record expected
+		if (codigoProduto != 0) {
+		^
+ClassificaProduto.java:15: error: class, interface, enum, or record expected
+				for (int i = 8; i >= 1; i--) {
+				^
+ClassificaProduto.java:15: error: class, interface, enum, or record expected
+				for (int i = 8; i >= 1; i--) {
+				                ^
+ClassificaProduto.java:15: error: class, interface, enum, or record expected
+				for (int i = 8; i >= 1; i--) {
+				                        ^
+ClassificaProduto.java:20: error: class, interface, enum, or record expected
+						break;
+						^
+ClassificaProduto.java:22: error: class, interface, enum, or record expected
+					}	
+					^
+ClassificaProduto.java:28: error: class, interface, enum, or record expected
+}
+^
+11 errors
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+18/04/2023 11:12:07,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+ClassificaProduto.java:1: error: class, interface, enum, or record expected
+public static void main (String[] args) {
+              ^
+ClassificaProduto.java:4: error: class, interface, enum, or record expected
+	int codigoProduto = 0;
+	^
+ClassificaProduto.java:6: error: class, interface, enum, or record expected
+	do {		
+	^
+ClassificaProduto.java:8: error: class, interface, enum, or record expected
+		codigoProduto = entrada.nextInt();
+		^
+ClassificaProduto.java:10: error: class, interface, enum, or record expected
+		if (codigoProduto != 0) {
+		^
+ClassificaProduto.java:14: error: class, interface, enum, or record expected
+			for (int i = 8; i >= 1; i--) {
+			^
+ClassificaProduto.java:14: error: class, interface, enum, or record expected
+			for (int i = 8; i >= 1; i--) {
+			                ^
+ClassificaProduto.java:14: error: class, interface, enum, or record expected
+			for (int i = 8; i >= 1; i--) {
+			                        ^
+ClassificaProduto.java:19: error: class, interface, enum, or record expected
+					break;
+					^
+ClassificaProduto.java:21: error: class, interface, enum, or record expected
+				}	
+				^
+ClassificaProduto.java:27: error: class, interface, enum, or record expected
+}
+^
+11 errors
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+18/04/2023 11:16:22,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:36:55,21 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:40:33,26 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:43:01,27 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:48:21,56 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:31,13 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:49:54,40 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:50:24,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:52:11,58 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+18/04/2023 23:54:01,49 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+18/04/2023 23:54:53,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+18/04/2023 23:55:26,94 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:55:57,36 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:39,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:56:58,28 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+18/04/2023 23:57:23,03 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:00:28,14 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:03:24,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:04,48 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+'"G:\Program Files\Java\jdk-20\bin"CalculadoraProfessor.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+'"G:\Program Files\Java\jdk-20\bin"ClassificaProduto.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+'"G:\Program Files\Java\jdk-20\bin"ConversaoTipoPrimitivo.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+'"G:\Program Files\Java\jdk-20\bin"DescobrirAnoBixesto_Exercicio2_20.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+'"G:\Program Files\Java\jdk-20\bin"EntradaDeDados.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+'"G:\Program Files\Java\jdk-20\bin"Escopo.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+'"G:\Program Files\Java\jdk-20\bin"EstruturaDoWhile.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+'"G:\Program Files\Java\jdk-20\bin"EstruturaFor.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+'"G:\Program Files\Java\jdk-20\bin"EstruturaWhile.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+'"G:\Program Files\Java\jdk-20\bin"ExemploBreak.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+'"G:\Program Files\Java\jdk-20\bin"ExemploContinue.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+'"G:\Program Files\Java\jdk-20\bin"Exercicio2_10.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+'"G:\Program Files\Java\jdk-20\bin"IncrementoDecremento.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+'"G:\Program Files\Java\jdk-20\bin"MultaVeiculo_exercicio_2_23.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+'"G:\Program Files\Java\jdk-20\bin"oiMundo.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+'"G:\Program Files\Java\jdk-20\bin"OlaGalera.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+'"G:\Program Files\Java\jdk-20\bin"Operador2.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+'"G:\Program Files\Java\jdk-20\bin"OperadoresDeComparacaoEIgualdade.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+'"G:\Program Files\Java\jdk-20\bin"OperadoresLogicos.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+'"G:\Program Files\Java\jdk-20\bin"OperadorTernario.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+'"G:\Program Files\Java\jdk-20\bin"PagamentoIpva.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+'"G:\Program Files\Java\jdk-20\bin"PromocaoAritmetica.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+'"G:\Program Files\Java\jdk-20\bin"TipoPrimitivo.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+'"G:\Program Files\Java\jdk-20\bin"TrabalhandoComStrings.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+'"G:\Program Files\Java\jdk-20\bin"OlaEclipse.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:04:23,45 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+'"G:\Program Files\Java\jdk-20\bin"TesteDebug.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+'"G:\Program Files\Java\jdk-20\bin"CalculadoraProfessor.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+'"G:\Program Files\Java\jdk-20\bin"ClassificaProduto.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+'"G:\Program Files\Java\jdk-20\bin"ConversaoTipoPrimitivo.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+'"G:\Program Files\Java\jdk-20\bin"DescobrirAnoBixesto_Exercicio2_20.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+'"G:\Program Files\Java\jdk-20\bin"EntradaDeDados.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+'"G:\Program Files\Java\jdk-20\bin"Escopo.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+'"G:\Program Files\Java\jdk-20\bin"EstruturaDoWhile.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+'"G:\Program Files\Java\jdk-20\bin"EstruturaFor.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+'"G:\Program Files\Java\jdk-20\bin"EstruturaWhile.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+'"G:\Program Files\Java\jdk-20\bin"ExemploBreak.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+'"G:\Program Files\Java\jdk-20\bin"ExemploContinue.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+'"G:\Program Files\Java\jdk-20\bin"Exercicio2_10.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+'"G:\Program Files\Java\jdk-20\bin"IncrementoDecremento.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+'"G:\Program Files\Java\jdk-20\bin"MultaVeiculo_exercicio_2_23.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+'"G:\Program Files\Java\jdk-20\bin"oiMundo.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+'"G:\Program Files\Java\jdk-20\bin"OlaGalera.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+'"G:\Program Files\Java\jdk-20\bin"Operador2.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+'"G:\Program Files\Java\jdk-20\bin"OperadoresDeComparacaoEIgualdade.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+'"G:\Program Files\Java\jdk-20\bin"OperadoresLogicos.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+'"G:\Program Files\Java\jdk-20\bin"OperadorTernario.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+'"G:\Program Files\Java\jdk-20\bin"PagamentoIpva.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+'"G:\Program Files\Java\jdk-20\bin"PromocaoAritmetica.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+'"G:\Program Files\Java\jdk-20\bin"TipoPrimitivo.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+'"G:\Program Files\Java\jdk-20\bin"TrabalhandoComStrings.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+'"G:\Program Files\Java\jdk-20\bin"OlaEclipse.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:17,43 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+'"G:\Program Files\Java\jdk-20\bin"TesteDebug.java' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:05:57,95 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+19/04/2023  0:06:36,39 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+19/04/2023  0:07:15,71 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:07:49,32 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:10:55,47 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:11:38,63 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:12:19,01 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+O sistema n∆o pode encontrar o caminho especificado.
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+19/04/2023  0:18:48,22 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+19/04/2023  0:18:54,38 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+19/04/2023  0:20:09,15 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" CalculadoraProfessor.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" ClassificaProduto.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" ConversaoTipoPrimitivo.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" EntradaDeDados.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" Escopo.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" EstruturaDoWhile.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" EstruturaFor.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" EstruturaWhile.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" ExemploBreak.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" ExemploContinue.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" Exercicio2_10.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" IncrementoDecremento.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" oiMundo.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" OlaGalera.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" Operador2.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" OperadoresLogicos.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" OperadorTernario.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" PagamentoIpva.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" PromocaoAritmetica.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" TipoPrimitivo.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" TrabalhandoComStrings.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ "G:\Program Files\Java\jdk-20\bin\javac" OlaEclipse.java 
+19/04/2023  0:21:03,52 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ "G:\Program Files\Java\jdk-20\bin\javac" TesteDebug.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" CalculadoraProfessor.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" ClassificaProduto.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" ConversaoTipoPrimitivo.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" EntradaDeDados.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" Escopo.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" EstruturaDoWhile.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" EstruturaFor.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" EstruturaWhile.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" ExemploBreak.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" ExemploContinue.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" Exercicio2_10.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" IncrementoDecremento.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" oiMundo.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" OlaGalera.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" Operador2.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" OperadoresLogicos.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" OperadorTernario.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" PagamentoIpva.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" PromocaoAritmetica.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" TipoPrimitivo.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ "G:\Program Files\Java\jdk-20\bin\javac" TrabalhandoComStrings.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ "G:\Program Files\Java\jdk-20\bin\javac" OlaEclipse.java 
+19/04/2023  0:21:57,69 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ "G:\Program Files\Java\jdk-20\bin\javac" TesteDebug.java 
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+'19' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+OperadorTernario.java:9: error: ';' expected
+		int idade = entrada.nextInt()
+		                             ^
+1 error
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+19/04/2023  0:25:47,68 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+"G:\Program Files\Java\jdk-20\bin\javac" CalculadoraProfessor.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+"G:\Program Files\Java\jdk-20\bin\javac" ClassificaProduto.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+"G:\Program Files\Java\jdk-20\bin\javac" ConversaoTipoPrimitivo.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+"G:\Program Files\Java\jdk-20\bin\javac" DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+"G:\Program Files\Java\jdk-20\bin\javac" EntradaDeDados.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+"G:\Program Files\Java\jdk-20\bin\javac" Escopo.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+"G:\Program Files\Java\jdk-20\bin\javac" EstruturaDoWhile.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+"G:\Program Files\Java\jdk-20\bin\javac" EstruturaFor.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+"G:\Program Files\Java\jdk-20\bin\javac" EstruturaWhile.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+"G:\Program Files\Java\jdk-20\bin\javac" ExemploBreak.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+"G:\Program Files\Java\jdk-20\bin\javac" ExemploContinue.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+"G:\Program Files\Java\jdk-20\bin\javac" Exercicio2_10.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+"G:\Program Files\Java\jdk-20\bin\javac" IncrementoDecremento.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+"G:\Program Files\Java\jdk-20\bin\javac" MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+"G:\Program Files\Java\jdk-20\bin\javac" oiMundo.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+"G:\Program Files\Java\jdk-20\bin\javac" OlaGalera.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+"G:\Program Files\Java\jdk-20\bin\javac" Operador2.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+"G:\Program Files\Java\jdk-20\bin\javac" OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+"G:\Program Files\Java\jdk-20\bin\javac" OperadoresLogicos.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+"G:\Program Files\Java\jdk-20\bin\javac" OperadorTernario.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+"G:\Program Files\Java\jdk-20\bin\javac" PagamentoIpva.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+"G:\Program Files\Java\jdk-20\bin\javac" PromocaoAritmetica.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+"G:\Program Files\Java\jdk-20\bin\javac" TipoPrimitivo.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+"G:\Program Files\Java\jdk-20\bin\javac" TrabalhandoComStrings.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+"G:\Program Files\Java\jdk-20\bin\javac" OlaEclipse.java 
+19/04/2023  0:27:05,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+"G:\Program Files\Java\jdk-20\bin\javac" TesteDebug.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+OperadorTernario.java:5: error: ';' expected
+	public static void main(String[] args) 
+	                                      ^
+OperadorTernario.java:8: error: <identifier> expected
+		System.out.print("Digite sua idade: ");
+		                ^
+OperadorTernario.java:8: error: illegal start of type
+		System.out.print("Digite sua idade: ");
+		                 ^
+OperadorTernario.java:21: error: <identifier> expected
+		System.out.println("Resultado: " + indicacao);
+		                  ^
+OperadorTernario.java:21: error: illegal start of type
+		System.out.println("Resultado: " + indicacao);
+		                   ^
+OperadorTernario.java:24: error: class, interface, enum, or record expected
+}
+^
+6 errors
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+19/04/2023  0:28:24,62 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+19/04/2023  0:31:49,42 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:31:59,19 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:32:13,55 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:35:20,83 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:35:20,83 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:35:20,83 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:35:20,83 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:35:20,83 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+OperadorTernario.java:5: error: ';' expected
+	public static void main(String[] args) 
+	                                      ^
+OperadorTernario.java:8: error: <identifier> expected
+		System.out.print("Digite sua idade: ");
+		                ^
+OperadorTernario.java:8: error: illegal start of type
+		System.out.print("Digite sua idade: ");
+		                 ^
+OperadorTernario.java:21: error: <identifier> expected
+		System.out.println("Resultado: " + indicacao);
+		                  ^
+OperadorTernario.java:21: error: illegal start of type
+		System.out.println("Resultado: " + indicacao);
+		                   ^
+OperadorTernario.java:24: error: class, interface, enum, or record expected
+}
+^
+6 errors
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:37:28,20 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+FINDSTR: n„o foi possÌvel abrir i:\1 - algaworks\03 Programaá∆o orientada a objetos com Java\log.txt
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ CalculadoraProfessor.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ClassificaProduto.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ConversaoTipoPrimitivo.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ DescobrirAnoBixesto_Exercicio2_20.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EntradaDeDados.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Escopo.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaDoWhile.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaFor.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ EstruturaWhile.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploBreak.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ ExemploContinue.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Exercicio2_10.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ IncrementoDecremento.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ MultaVeiculo_exercicio_2_23.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ oiMundo.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OlaGalera.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ Operador2.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresDeComparacaoEIgualdade.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadoresLogicos.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ OperadorTernario.java 
+OperadorTernario.java:5: error: ';' expected
+	public static void main(String[] args) 
+	                                      ^
+OperadorTernario.java:8: error: <identifier> expected
+		System.out.print("Digite sua idade: ");
+		                ^
+OperadorTernario.java:8: error: illegal start of type
+		System.out.print("Digite sua idade: ");
+		                 ^
+OperadorTernario.java:21: error: <identifier> expected
+		System.out.println("Resultado: " + indicacao);
+		                  ^
+OperadorTernario.java:21: error: illegal start of type
+		System.out.println("Resultado: " + indicacao);
+		                   ^
+OperadorTernario.java:24: error: class, interface, enum, or record expected
+}
+^
+6 errors
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PagamentoIpva.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ PromocaoAritmetica.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TipoPrimitivo.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
+19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
