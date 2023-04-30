@@ -1,6 +1,6 @@
-package cap05.com.algaworks.curso.fjoo.treinador;
+package com.algaworks.curso.fjoo.treinador;
 
-import cap05.com.algaworks.curso.fjoo.animal.Cachorro;
+import com.algaworks.curso.fjoo.animal.Cachorro;
 
 public class DonoCachorro {
 

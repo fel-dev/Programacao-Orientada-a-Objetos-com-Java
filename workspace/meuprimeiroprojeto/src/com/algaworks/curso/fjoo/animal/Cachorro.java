@@ -1,4 +1,4 @@
-package cap05.com.algaworks.curso.fjoo.animal;
+package com.algaworks.curso.fjoo.animal;
 
 public class Cachorro {
 
@@ -12,7 +12,7 @@ public class Cachorro {
 	}
 	
 	public void sentar() {
-		System.out.println("Eu, " + nome + ", vou sentar!");
+		System.out.println("[" + nome + "] Sentando...");
 	}
 	
 }
