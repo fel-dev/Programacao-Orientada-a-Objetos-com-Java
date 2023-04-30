@@ -1,3 +1,4 @@
+package capitulos1ao4;
 public class Passeio {
     public static void main(String[] args) {
         Pessoa p1 = new Pessoa();

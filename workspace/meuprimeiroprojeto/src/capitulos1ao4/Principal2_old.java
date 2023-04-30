@@ -1,3 +1,4 @@
+package capitulos1ao4;
 public class Principal2_old {
 public static void main(String[] args) {
     Proprietario dono1 = new Proprietario();

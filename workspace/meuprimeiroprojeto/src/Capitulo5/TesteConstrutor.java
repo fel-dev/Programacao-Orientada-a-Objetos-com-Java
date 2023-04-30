@@ -1,4 +1,4 @@
-package Capitulo5;
+package capitulo5;
 
 public class TesteConstrutor {
     public static void main(String[] args) {

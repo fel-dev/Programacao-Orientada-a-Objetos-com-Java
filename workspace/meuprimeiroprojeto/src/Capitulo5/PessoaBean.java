@@ -1,4 +1,4 @@
-package Capitulo5;
+package capitulo5;
 // Para ser um Java Bean, os atributos devem ser privados e os métodos públicos
 // e é uma classe que os atributos são encapsulados
 public class PessoaBean { 

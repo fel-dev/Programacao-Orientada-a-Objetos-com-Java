@@ -1,4 +1,4 @@
-package Capitulo5;
+package capitulo5;
 
 public class Pessoa {
     // int e cia são sempre inicializados com 0. Booleanos são inicializados com false. Strings são inicializadas com null.

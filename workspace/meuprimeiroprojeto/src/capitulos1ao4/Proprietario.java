@@ -1,3 +1,4 @@
+package capitulos1ao4;
 public class Proprietario {
     String nome;
     String cpf;

@@ -1,3 +1,4 @@
+package capitulos1ao4;
 public class Principal2_old3 {
     public static void main(String[] args) { // Aula 3.9 Variáveis referenciam objeto (IPC!!!!!!!!!!!)
         Proprietario dono1 = new Proprietario();

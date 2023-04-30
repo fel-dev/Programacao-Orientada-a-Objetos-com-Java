@@ -1,4 +1,4 @@
-package Capitulo5;
+package capitulo5;
 
 public class ArCondicionado {
 

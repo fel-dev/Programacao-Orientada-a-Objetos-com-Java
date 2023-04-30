@@ -1,4 +1,4 @@
-package Exercicio_arrays_4_5;
+package capitulos1ao4;
 
     class Estoque {
     
