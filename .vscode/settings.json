@@ -1,5 +1,5 @@
 {
     "java.dependency.packagePresentation": "hierarchical",
     "java.project.explorer.showNonJavaResources": true,
-    "editor.tabSize": 1
+    "editor.tabSize": 2
 }
