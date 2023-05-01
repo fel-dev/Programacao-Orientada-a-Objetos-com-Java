@@ -4,8 +4,9 @@ import com.algaworks.cursojava.financeiro.modelo.ContaPagar;
 import com.algaworks.cursojava.financeiro.modelo.Fornecedor;
 
 public class Principal {
-  public static void main(String[] args) {
-    Fornecedor imobiliaria = new Fornecedor();
+
+	public static void main(String[] args) {
+		Fornecedor imobiliaria = new Fornecedor();
 		imobiliaria.setNome("Casa & Cia Negócios Imobiliários");
 
 		Fornecedor mercado = new Fornecedor();
@@ -21,8 +22,16 @@ public class Principal {
 		
 		ContaPagar conta3 = new ContaPagar(mercado, "Aluguel da filial", 700d, "11/05/2012");
 		
+		// pagamento de conta pendente (ok, deve funcionar)
 		conta1.pagar();
+		
+		// tentativa de pagar uma conta cancelada (não deve aceitar pagamento)
+		conta2.cancelar();
 		conta2.pagar();
+		
+		// tentativa de pagar uma conta duas vezes (não deve aceitar na segunda vez)
+		conta3.pagar();
 		conta3.pagar();
 	}
+
 }
