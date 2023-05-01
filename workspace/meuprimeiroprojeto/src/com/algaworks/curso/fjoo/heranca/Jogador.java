@@ -1,6 +1,6 @@
 package com.algaworks.curso.fjoo.heranca;
 
-public class Jogador extends Pessoa{
+public class Jogador extends Pessoa { // só estende uma classe por vez
 
  protected boolean aindaJoga = false; // protected funcionado quando a classe é herdada ou quando está no mesmo pacote
 
@@ -13,3 +13,6 @@ public class Jogador extends Pessoa{
  }
 
 }
+
+// https://app.algaworks.com/aulas/83/classe-javalangobject 5.15. Classe java.lang.Object
+
