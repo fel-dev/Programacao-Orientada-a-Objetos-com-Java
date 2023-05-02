@@ -1,15 +1,16 @@
 package com.algaworks.cursojava.financeiro;
 
-import com.algaworks.cursojava.financeiro.modelo.Cliente;
 import com.algaworks.cursojava.financeiro.modelo.ContaPagar;
 import com.algaworks.cursojava.financeiro.modelo.ContaReceber;
+import com.algaworks.cursojava.financeiro.modelo.Conta;
 import com.algaworks.cursojava.financeiro.modelo.Fornecedor;
+import com.algaworks.cursojava.financeiro.modelo.Cliente;
 
-import utilitarios.Console;
+import utilitarios.*;
 
 public class Principal {
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) {
 		// instanciando fornecedores
 		Fornecedor imobiliaria = new Fornecedor();
 		imobiliaria.setNome("Casa & Cia Negócios Imobiliários");
@@ -41,19 +42,19 @@ public class Principal {
 		ContaReceber contaReceber2 = new ContaReceber(telecom, "Manutenção em sistema de conta online", 
 			53200d, "13/05/2012");
 		
-		// Limpando o console
-		Console.LimparEDecolar("Iniciando o sistema de contas a pagar e receber");
+		// limpa tela do console
+		try {
+			utilitarios.Console.Limpar();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		// exibe listagem de todas as contas com detalhamento
+		RelatorioContas relatorio = new RelatorioContas();
+		Conta[] contas = new Conta[]{contaPagar1, contaPagar2, contaReceber1, contaReceber2};
 		
-		// pagamento e cancelamento de contas a pagar
-		contaPagar1.pagar();
-		contaPagar2.cancelar();
-
-		// recebimento e cancelamento de contas a receber
-		contaReceber1.receber();
-		contaReceber2.cancelar();
-
-		// Pula uma linha
-		Console.PularLinha();
+		relatorio.exibirListagem(contas);
 	}
 
 }

@@ -54,6 +54,20 @@ public class ContaReceber extends Conta{
 		this.cliente = cliente;
 	}
 
+	@Override
+	public void exibirDetalhes() {
+		// Esse método deve exibir todos os detalhes do objeto em um formato legal para aparecer em um relatório.
+		System.out.println();
+		System.out.println("+++ Conta a receber +++");		
+		System.out.println("Cliente: " + this.getCliente().getNome());	
+		System.out.println("Descrição: " + this.getDescricao());
+		System.out.println("Valor: " + this.getValor());
+		System.out.println("Vencimento: " + this.getDataVencimento());
+		System.out.println("Situação: " + this.getSituacaoConta());
+		System.out.println("+++++++++++++++++++++++");
+
+	}
+
 
 
 }
