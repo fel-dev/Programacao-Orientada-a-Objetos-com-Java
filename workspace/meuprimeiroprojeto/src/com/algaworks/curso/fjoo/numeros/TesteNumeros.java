@@ -13,6 +13,7 @@ public class TesteNumeros {
 		System.out.println("Valor do produto: " + formatador.format(valorProduto));
 
 		String entrada = "R$ 50,34";
+		
 		try {
 			double numero = formatador.parse(entrada).doubleValue();
 			System.out.println("Valor do produto: " + numero);
