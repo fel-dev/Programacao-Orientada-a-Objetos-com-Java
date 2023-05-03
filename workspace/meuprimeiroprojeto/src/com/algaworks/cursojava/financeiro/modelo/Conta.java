@@ -1,5 +1,7 @@
 package com.algaworks.cursojava.financeiro.modelo;
 
+import com.algaworks.cursojava.financeiro.OperacaoContaException;
+
 public abstract class Conta {
 
 	private String descricao;
@@ -13,17 +15,15 @@ public abstract class Conta {
 		this.situacaoConta = SituacaoConta.PENDENTE;
 	}	
 
-	public void cancelar() {
+	public void cancelar() throws OperacaoContaException {
 
 		switch (this.situacaoConta) {
 
 			case PAGA:
-				System.err.println("Não posso cancelar uma conta que já foi paga.");
-			break;
+				throw new OperacaoContaException("Não posso cancelar uma conta que já foi paga.");
 
 			case CANCELADA:
-				System.err.println("Não posso cancelar uma conta que já foi cancelada.");
-			break;
+				throw new OperacaoContaException("Não posso cancelar uma conta que já foi cancelada.");			
 
 			case PENDENTE:
 				this.situacaoConta = SituacaoConta.CANCELADA;

@@ -1,5 +1,7 @@
 package com.algaworks.cursojava.financeiro.modelo;
 
+import com.algaworks.cursojava.financeiro.OperacaoContaException;
+
 public class ContaPagar extends Conta{
 
     private Fornecedor fornecedor;
@@ -17,18 +19,14 @@ public class ContaPagar extends Conta{
 
     }
 
-    public void pagar() {
+    public void pagar() throws OperacaoContaException {
 
         switch (this.getSituacaoConta()) {
 
             case PAGA:
-                System.err.println("Não posso pagar uma conta que já foi paga.");
-            break;
-
+                throw new OperacaoContaException("Não posso pagar uma conta que já foi paga.");
             case CANCELADA:
-                System.err.println("Não posso pagar uma conta que já foi cancelada.");
-            break;
-
+                throw new OperacaoContaException("Não posso pagar uma conta que já foi cancelada.");
             case PENDENTE:
                 this.situacaoConta = SituacaoConta.PAGA;
                 System.out.println(

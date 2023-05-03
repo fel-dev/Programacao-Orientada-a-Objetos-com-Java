@@ -6,7 +6,7 @@ import com.algaworks.cursojava.financeiro.modelo.Conta;
 import com.algaworks.cursojava.financeiro.modelo.Fornecedor;
 import com.algaworks.cursojava.financeiro.modelo.Cliente;
 
-import utilitarios.*;
+import static utilitarios.Console.Limpar;
 
 public class Principal {
 
@@ -43,17 +43,26 @@ public class Principal {
 			53200d, "13/05/2012");
 		
 		// limpa tela do console
-		try {
-			utilitarios.Console.Limpar();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		Limpar();
 
+		// Parte do desafio 6.5: (exceções)
+		System.out.println("=== Operações com contas ===\n"	);
+		try {
+			contaPagar1.pagar();
+			contaPagar2.cancelar();
+			contaReceber1.receber();
+			contaReceber2.cancelar();
+			contaReceber2.receber();
+		} catch (OperacaoContaException e) {
+			System.out.println("Erro na operação " + e.getMessage());	
+		} finally {
+			System.out.println("Obrigado por usar o Banco Bancóx!");
+		}
+		
 		// exibe listagem de todas as contas com detalhamento
+		System.out.println("\n=== Listagem de contas ===\n");
 		RelatorioContas relatorio = new RelatorioContas();
 		Conta[] contas = new Conta[]{contaPagar1, contaPagar2, contaReceber1, contaReceber2};
-		
 		relatorio.exibirListagem(contas);
 	}
 

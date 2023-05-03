@@ -1,5 +1,7 @@
 package com.algaworks.cursojava.financeiro.modelo;
 
+import com.algaworks.cursojava.financeiro.OperacaoContaException;
+
 public class ContaReceber extends Conta{
 	
 	private Cliente cliente;
@@ -15,17 +17,15 @@ public class ContaReceber extends Conta{
 		// constructor
 	}
 
-	public void receber() {
+	public void receber() throws OperacaoContaException {
 
 		switch (this.getSituacaoConta()){
 		
 			case PAGA:
-				System.err.println("Não posso receber uma conta que já foi paga.");
-			break;
+				throw new OperacaoContaException("Não posso receber uma conta que já foi paga.");			
 
 			case CANCELADA:
-				System.err.println("Não posso receber uma conta que já foi cancelada.");
-			break;
+				throw new OperacaoContaException("Não posso receber uma conta que já foi cancelada.");			
 
 			case PENDENTE:
 				this.situacaoConta = SituacaoConta.PAGA;
@@ -38,7 +38,7 @@ public class ContaReceber extends Conta{
 	}
 
 	// sobreposição do método cancelar da classe Conta
-	public void cancelar() {
+	public void cancelar() throws OperacaoContaException {
 
 		if (this.getValor() >= 50.000) {
 			System.err.println("Não é possível cancelar uma conta com valor igual ou superior a R$ 50.000,00.");
