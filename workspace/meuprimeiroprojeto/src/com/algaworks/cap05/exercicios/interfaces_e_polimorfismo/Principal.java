@@ -1,4 +1,4 @@
-package com.algaworks.cap05.exercicios.interfaces_e_polimorfismo_5_24;
+package com.algaworks.cap05.exercicios.interfaces_e_polimorfismo;
 
 public class Principal {
 	public static void main(String[] args) {

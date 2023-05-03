@@ -1,19 +1,20 @@
-package com.algaworks.cap05.exercicios.interfaces_e_polimorfismo_5_24;
+package com.algaworks.cap05.exercicios.interfaces_e_polimorfismo;
 
-public class Notebook implements Seguravel{
-	
+public class Barco implements Seguravel{
+
 	private double valorMercado;
 	private int anoFabricacao;
 
-	public Notebook(double valorMercado, int anoFabricacao){
+
+	public Barco(double valorMercado, int anoFabricacao){
 		this.valorMercado = valorMercado;
 		this.anoFabricacao = anoFabricacao;
 	}
 
 	@Override
 	public double calcularValorApolice() {
-		// Cálculo simbólico para um exemplo
-		double valorApolice = this.valorMercado * 0.01;
+		// {suposição de calculo de valor de apolice de um barco}*
+		double valorApolice = this.valorMercado * 0.02;
 		if (anoFabricacao < 2020) {
 			valorApolice = valorApolice * 0.80;
 		} else {
@@ -24,6 +25,7 @@ public class Notebook implements Seguravel{
 
 	@Override
 	public String obterDescricao() {
-		return "Notebook ano " + this.anoFabricacao + " com valor de mercado " + this.valorMercado;
+		return "Barco ano " + this.anoFabricacao + " com valor de mercado " + this.valorMercado;
 	}
+	
 }
