@@ -3,5 +3,8 @@
 "editor.tabSize": 2,
 "editor.insertSpaces": false,
 "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable",
-"java.dependency.packagePresentation": "hierarchical"
+"java.dependency.packagePresentation": "hierarchical",
+"autoHide.sideBarDelay": 0,
+"java.project.explorer.showNonJavaResources": true,
+"java.dependency.syncWithFolderExplorer": true
 }
