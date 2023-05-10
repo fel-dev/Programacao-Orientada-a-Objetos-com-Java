@@ -84,8 +84,12 @@ echo.
 setlocal enabledelayedexpansion
 
 @rem Definir variáveis de ambiente %ProgramFiles%\Java\jdk-20\bin\javac
-set javac="G:\Program Files\Java\jdk-20\bin\javac"
-set path=%path%;G:\Program Files\Java\jdk-20\bin
+
+set javac="C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\bin\javac"
+set path=%path%;"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\bin"
+
+@REM set javac="G:\Program Files\Java\jdk-20\bin\javac"
+@REM set path=%path"%;G:\Program Files\Java\jdk-20\bin
 
 @rem set "root_directory=C:\temp\fel-dev\"
 set "log_file=%~dp0log.txt"

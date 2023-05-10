@@ -1983,3 +1983,2757 @@ OperadorTernario.java:24: error: class, interface, enum, or record expected
 19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\ TrabalhandoComStrings.java 
 19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ OlaEclipse.java 
 19/04/2023  0:40:01,77 DESKTOP-01BSJ5D User \1 - algaworks\03 Programaá∆o orientada a objetos com Java\workspace\meu-projeto\src\ TesteDebug.java 
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\ App.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Cachorro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Caminhada.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Carro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Estoque.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ ExemploThis.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ FolhaPagamento.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ IMC.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ OlaEclipse.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Paciente.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Passeio.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Pessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ PetShop.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Preco.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old2.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old3.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal3.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal4.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal5.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal6.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal6_old.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Produto.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Proprietario.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Televisor.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteArrayComCarro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteArrays.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteDebug.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TestesClassesWrapper.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ ArCondicionado.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ ContaPagar.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Fornecedor.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Pessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ PessoaBean.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TesteConstrutor.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TesteEncapsulamento.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TestejavaBean.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\caixa\ Checkout.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\caixa\ Compra.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Barco.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Carro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ CorretoraSeguros.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Imovel.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Notebook.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Seguravel.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\ calculoIMC.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ Produto.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ ProdutoPerecivel.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ TesteClasseAbstrata.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\animal\ Cachorro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ MegaSena.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ TesteClasseMath.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ TesteMegaSena.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ Aluno.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ SimuladorBancoDeDados.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteListArrayList.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteMapHashMap.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteSetHashSet.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteSetHashSet2.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Cargo.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Governo.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Politico.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ CalculadoraGravidez.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ TesteCalendar.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ TesteDatas.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ Carta.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ Naipe.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ OperacaoAritmetica.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ TesteEnum.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ TesteOperacaoEnum.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ ContaCorrente.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ SaldoInsuficienteException.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ TesteExcecoes.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ TesteExcecoesChecadas.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Jogador.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Pessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Tecnico.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ TesteHeranca.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ Contador.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ MatematicaUtil.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ TesteContador.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ TesteMatematica.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\numeros\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\numeros\ TesteNumeros.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ Conta.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ ContaCorrente.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ ContaPoupanca.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ TestePolimosrfismo.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\ CadastroPessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\ Pessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\ TesteCadastro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\exercicio\ MaquinaCafe.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\exercicio\ TesteMaquinaCafe.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobreposicao\ Produto.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobreposicao\ ProdutoPerecivel.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobreposicao\ TesteSobreposicao.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\strings\ TesteStrings.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\treinador\ DonoCachorro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\treinador\ TreinadorCachorro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\ OperacaoContaException.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\ RelatorioContas.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ Cliente.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ Conta.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ ContaPagar.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ ContaReceber.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ Fornecedor.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:22:41,55 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ Pessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\ App.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Cachorro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Caminhada.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Carro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Estoque.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ ExemploThis.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ FolhaPagamento.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ IMC.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ OlaEclipse.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Paciente.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Passeio.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Pessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ PetShop.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Preco.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old2.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old3.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal3.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal4.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal5.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal6.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal6_old.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Produto.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Proprietario.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Televisor.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteArrayComCarro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteArrays.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteDebug.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TestesClassesWrapper.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ ArCondicionado.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ ContaPagar.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Fornecedor.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Pessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ PessoaBean.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TesteConstrutor.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TesteEncapsulamento.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TestejavaBean.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\caixa\ Checkout.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\caixa\ Compra.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Barco.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Carro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ CorretoraSeguros.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Imovel.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Notebook.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Seguravel.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\ calculoIMC.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ Produto.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ ProdutoPerecivel.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ TesteClasseAbstrata.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\animal\ Cachorro.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ MegaSena.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ TesteClasseMath.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ TesteMegaSena.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ Aluno.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ SimuladorBancoDeDados.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteListArrayList.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteMapHashMap.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteSetHashSet.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteSetHashSet2.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Cargo.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Governo.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Politico.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ CalculadoraGravidez.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ TesteCalendar.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ TesteDatas.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ Carta.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ Naipe.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ OperacaoAritmetica.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ TesteEnum.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ TesteOperacaoEnum.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ ContaCorrente.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ SaldoInsuficienteException.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ TesteExcecoes.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ TesteExcecoesChecadas.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Jogador.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Pessoa.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Tecnico.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ TesteHeranca.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ Contador.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ MatematicaUtil.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ TesteContador.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ TesteMatematica.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\numeros\ Principal.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\numeros\ TesteNumeros.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ Conta.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ ContaCorrente.java 
+'"C:\Program Files\Eclipse Adoptium\jdk-17.0.7.7-hotspot\javac"' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+10/05/2023  9:23:50,13 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ ContaPoupanca.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\ App.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Cachorro.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Caminhada.java 
+Caminhada.java:4: error: cannot find symbol
+    public void andar (Pessoa pessoa) {
+                       ^
+  symbol:   class Pessoa
+  location: class Caminhada
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Carro.java 
+Carro.java:10: error: cannot find symbol
+    Proprietario dono;
+    ^
+  symbol:   class Proprietario
+  location: class Carro
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Estoque.java 
+Estoque.java:6: error: cannot find symbol
+        Produto[] produtos;
+        ^
+  symbol:   class Produto
+  location: class Estoque
+Estoque.java:2: error: package cap05 does not exist
+import cap05.*;
+^
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ ExemploThis.java 
+ExemploThis.java:5: error: cannot find symbol
+        Carro carro = new Carro();
+        ^
+  symbol:   class Carro
+  location: class ExemploThis
+ExemploThis.java:5: error: cannot find symbol
+        Carro carro = new Carro();
+                          ^
+  symbol:   class Carro
+  location: class ExemploThis
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ FolhaPagamento.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ IMC.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ OlaEclipse.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Paciente.java 
+Paciente.java:8: error: cannot find symbol
+	IMC calcularIndiceDeMassaCorporal() {
+	^
+  symbol:   class IMC
+  location: class Paciente
+Paciente.java:9: error: cannot find symbol
+		IMC imc = new IMC();
+		^
+  symbol:   class IMC
+  location: class Paciente
+Paciente.java:9: error: cannot find symbol
+		IMC imc = new IMC();
+		              ^
+  symbol:   class IMC
+  location: class Paciente
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Passeio.java 
+Passeio.java:4: error: cannot find symbol
+        Pessoa p1 = new Pessoa();
+        ^
+  symbol:   class Pessoa
+  location: class Passeio
+Passeio.java:4: error: cannot find symbol
+        Pessoa p1 = new Pessoa();
+                        ^
+  symbol:   class Pessoa
+  location: class Passeio
+Passeio.java:11: error: cannot find symbol
+        p1.cachorro = new Cachorro();
+                          ^
+  symbol:   class Cachorro
+  location: class Passeio
+Passeio.java:17: error: cannot find symbol
+        Caminhada c = new Caminhada();
+        ^
+  symbol:   class Caminhada
+  location: class Passeio
+Passeio.java:17: error: cannot find symbol
+        Caminhada c = new Caminhada();
+                          ^
+  symbol:   class Caminhada
+  location: class Passeio
+5 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Pessoa.java 
+Pessoa.java:4: error: cannot find symbol
+    Cachorro cachorro;
+    ^
+  symbol:   class Cachorro
+  location: class Pessoa
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ PetShop.java 
+PetShop.java:4: error: cannot find symbol
+        Cachorro cachorro = new Cachorro();
+        ^
+  symbol:   class Cachorro
+  location: class PetShop
+PetShop.java:4: error: cannot find symbol
+        Cachorro cachorro = new Cachorro();
+                                ^
+  symbol:   class Cachorro
+  location: class PetShop
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Preco.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal.java 
+Principal.java:12: error: cannot find symbol
+		Carro meuCarro = new Carro(); // Instanciando um objeto do tipo Carro, e atribuindo a vari√°vel meuCarro, que √© do tipo Carro. Na mesma linha
+		^
+  symbol:   class Carro
+  location: class Principal
+Principal.java:12: error: cannot find symbol
+		Carro meuCarro = new Carro(); // Instanciando um objeto do tipo Carro, e atribuindo a vari√°vel meuCarro, que √© do tipo Carro. Na mesma linha
+		                     ^
+  symbol:   class Carro
+  location: class Principal
+Principal.java:22: error: cannot find symbol
+		Carro seuCarro = new Carro();
+		^
+  symbol:   class Carro
+  location: class Principal
+Principal.java:22: error: cannot find symbol
+		Carro seuCarro = new Carro();
+		                     ^
+  symbol:   class Carro
+  location: class Principal
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2.java 
+Principal2.java:4: error: cannot find symbol
+        Carro meuCarro = new Carro();
+        ^
+  symbol:   class Carro
+  location: class Principal2
+Principal2.java:4: error: cannot find symbol
+        Carro meuCarro = new Carro();
+                             ^
+  symbol:   class Carro
+  location: class Principal2
+Principal2.java:7: error: cannot find symbol
+        Carro seuCarro = new Carro();
+        ^
+  symbol:   class Carro
+  location: class Principal2
+Principal2.java:7: error: cannot find symbol
+        Carro seuCarro = new Carro();
+                             ^
+  symbol:   class Carro
+  location: class Principal2
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old.java 
+Principal2_old.java:4: error: cannot find symbol
+    Proprietario dono1 = new Proprietario();
+    ^
+  symbol:   class Proprietario
+  location: class Principal2_old
+Principal2_old.java:4: error: cannot find symbol
+    Proprietario dono1 = new Proprietario();
+                             ^
+  symbol:   class Proprietario
+  location: class Principal2_old
+Principal2_old.java:12: error: cannot find symbol
+    Carro meuCarro = new Carro();
+    ^
+  symbol:   class Carro
+  location: class Principal2_old
+Principal2_old.java:12: error: cannot find symbol
+    Carro meuCarro = new Carro();
+                         ^
+  symbol:   class Carro
+  location: class Principal2_old
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old2.java 
+Principal2_old2.java:4: error: cannot find symbol
+        Carro seuCarro = new Carro();
+        ^
+  symbol:   class Carro
+  location: class Principal2_old2
+Principal2_old2.java:4: error: cannot find symbol
+        Carro seuCarro = new Carro();
+                             ^
+  symbol:   class Carro
+  location: class Principal2_old2
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal2_old3.java 
+Principal2_old3.java:4: error: cannot find symbol
+        Proprietario dono1 = new Proprietario();
+        ^
+  symbol:   class Proprietario
+  location: class Principal2_old3
+Principal2_old3.java:4: error: cannot find symbol
+        Proprietario dono1 = new Proprietario();
+                                 ^
+  symbol:   class Proprietario
+  location: class Principal2_old3
+Principal2_old3.java:7: error: cannot find symbol
+        Carro meuCarro = new Carro();
+        ^
+  symbol:   class Carro
+  location: class Principal2_old3
+Principal2_old3.java:7: error: cannot find symbol
+        Carro meuCarro = new Carro();
+                             ^
+  symbol:   class Carro
+  location: class Principal2_old3
+Principal2_old3.java:23: error: cannot find symbol
+        Carro seuCarro = new Carro();
+        ^
+  symbol:   class Carro
+  location: class Principal2_old3
+Principal2_old3.java:23: error: cannot find symbol
+        Carro seuCarro = new Carro();
+                             ^
+  symbol:   class Carro
+  location: class Principal2_old3
+6 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal3.java 
+Principal3.java:6: error: cannot find symbol
+		Paciente p = new Paciente();
+		^
+  symbol:   class Paciente
+  location: class Principal3
+Principal3.java:6: error: cannot find symbol
+		Paciente p = new Paciente();
+		                 ^
+  symbol:   class Paciente
+  location: class Principal3
+Principal3.java:10: error: cannot find symbol
+		IMC imc = p.calcularIndiceDeMassaCorporal();
+		^
+  symbol:   class IMC
+  location: class Principal3
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal4.java 
+Principal4.java:6: error: cannot find symbol
+		FolhaPagamento folha = new FolhaPagamento();
+		^
+  symbol:   class FolhaPagamento
+  location: class Principal4
+Principal4.java:6: error: cannot find symbol
+		FolhaPagamento folha = new FolhaPagamento();
+		                           ^
+  symbol:   class FolhaPagamento
+  location: class Principal4
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal5.java 
+Principal5.java:6: error: cannot find symbol
+		Preco preco = new Preco();
+		^
+  symbol:   class Preco
+  location: class Principal5
+Principal5.java:6: error: cannot find symbol
+		Preco preco = new Preco();
+		                  ^
+  symbol:   class Preco
+  location: class Principal5
+Principal5.java:9: error: cannot find symbol
+		Produto produto = new Produto();
+		^
+  symbol:   class Produto
+  location: class Principal5
+Principal5.java:9: error: cannot find symbol
+		Produto produto = new Produto();
+		                      ^
+  symbol:   class Produto
+  location: class Principal5
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal6.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Principal6_old.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Produto.java 
+Produto.java:5: error: cannot find symbol
+	void definirPreco(Preco preco, double percentualImpostos, double margemLucro) {
+	                  ^
+  symbol:   class Preco
+  location: class Produto
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Proprietario.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ Televisor.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteArrayComCarro.java 
+TesteArrayComCarro.java:4: error: cannot find symbol
+		Carro[] carros = new Carro[4];
+		^
+  symbol:   class Carro
+  location: class TesteArrayComCarro
+TesteArrayComCarro.java:4: error: cannot find symbol
+		Carro[] carros = new Carro[4];
+		                     ^
+  symbol:   class Carro
+  location: class TesteArrayComCarro
+TesteArrayComCarro.java:6: error: cannot find symbol
+		carros[0] = new Carro();
+		                ^
+  symbol:   class Carro
+  location: class TesteArrayComCarro
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteArrays.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TesteDebug.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap01ao04\ TestesClassesWrapper.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ ArCondicionado.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ ContaPagar.java 
+ContaPagar.java:7: error: cannot find symbol
+    private Fornecedor fornecedor;
+            ^
+  symbol:   class Fornecedor
+  location: class ContaPagar
+ContaPagar.java:9: error: cannot find symbol
+    public ContaPagar(Fornecedor fornecedor, String descricao, Double valor, String dataVencimento) {
+                      ^
+  symbol:   class Fornecedor
+  location: class ContaPagar
+ContaPagar.java:41: error: cannot find symbol
+    public Fornecedor getFornecedor() {
+           ^
+  symbol:   class Fornecedor
+  location: class ContaPagar
+ContaPagar.java:44: error: cannot find symbol
+    public void setFornecedor(Fornecedor fornecedor) {
+                              ^
+  symbol:   class Fornecedor
+  location: class ContaPagar
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Fornecedor.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Pessoa.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ PessoaBean.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ Principal.java 
+Principal.java:5: error: cannot find symbol
+		Fornecedor imobiliaria = new Fornecedor();
+		^
+  symbol:   class Fornecedor
+  location: class Principal
+Principal.java:5: error: cannot find symbol
+		Fornecedor imobiliaria = new Fornecedor();
+		                             ^
+  symbol:   class Fornecedor
+  location: class Principal
+Principal.java:8: error: cannot find symbol
+		Fornecedor mercado = new Fornecedor();
+		^
+  symbol:   class Fornecedor
+  location: class Principal
+Principal.java:8: error: cannot find symbol
+		Fornecedor mercado = new Fornecedor();
+		                         ^
+  symbol:   class Fornecedor
+  location: class Principal
+Principal.java:11: error: cannot find symbol
+		ContaPagar conta1 = new ContaPagar();
+		^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:11: error: cannot find symbol
+		ContaPagar conta1 = new ContaPagar();
+		                        ^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:17: error: cannot find symbol
+		ContaPagar conta2 = new ContaPagar(mercado, "Compras do m√™s", 390d, "19/05/2012");
+		^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:17: error: cannot find symbol
+		ContaPagar conta2 = new ContaPagar(mercado, "Compras do m√™s", 390d, "19/05/2012");
+		                        ^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:19: error: cannot find symbol
+		ContaPagar conta3 = new ContaPagar(mercado, "Aluguel da filial", 700d, "11/05/2012");
+		^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:19: error: cannot find symbol
+		ContaPagar conta3 = new ContaPagar(mercado, "Aluguel da filial", 700d, "11/05/2012");
+		                        ^
+  symbol:   class ContaPagar
+  location: class Principal
+10 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TesteConstrutor.java 
+TesteConstrutor.java:5: error: cannot find symbol
+		Pessoa p1 = new Pessoa("Jo√£o");
+		^
+  symbol:   class Pessoa
+  location: class TesteConstrutor
+TesteConstrutor.java:5: error: cannot find symbol
+		Pessoa p1 = new Pessoa("Jo√£o");
+		                ^
+  symbol:   class Pessoa
+  location: class TesteConstrutor
+TesteConstrutor.java:9: error: cannot find symbol
+		Pessoa p2 = new Pessoa("Maria", 22);
+		^
+  symbol:   class Pessoa
+  location: class TesteConstrutor
+TesteConstrutor.java:9: error: cannot find symbol
+		Pessoa p2 = new Pessoa("Maria", 22);
+		                ^
+  symbol:   class Pessoa
+  location: class TesteConstrutor
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TesteEncapsulamento.java 
+TesteEncapsulamento.java:5: error: cannot find symbol
+        ArCondicionado ar = new ArCondicionado(); // 17 - 25
+        ^
+  symbol:   class ArCondicionado
+  location: class TesteEncapsulamento
+TesteEncapsulamento.java:5: error: cannot find symbol
+        ArCondicionado ar = new ArCondicionado(); // 17 - 25
+                                ^
+  symbol:   class ArCondicionado
+  location: class TesteEncapsulamento
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\cap05\ TestejavaBean.java 
+TestejavaBean.java:5: error: cannot find symbol
+        PessoaBean pessoa = new PessoaBean();
+        ^
+  symbol:   class PessoaBean
+  location: class TestejavaBean
+TestejavaBean.java:5: error: cannot find symbol
+        PessoaBean pessoa = new PessoaBean();
+                                ^
+  symbol:   class PessoaBean
+  location: class TestejavaBean
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\caixa\ Checkout.java 
+Checkout.java:3: error: package com.algaworks.impressora does not exist
+import com.algaworks.impressora.Impressora;
+                               ^
+Checkout.java:4: error: package com.algaworks.pagamento does not exist
+import com.algaworks.pagamento.Cartao;
+                              ^
+Checkout.java:5: error: package com.algaworks.pagamento does not exist
+import com.algaworks.pagamento.Operadora;
+                              ^
+Checkout.java:9: error: cannot find symbol
+	private Operadora Operadora;
+	        ^
+  symbol:   class Operadora
+  location: class Checkout
+Checkout.java:10: error: cannot find symbol
+	private Impressora Impressora;
+	        ^
+  symbol:   class Impressora
+  location: class Checkout
+Checkout.java:12: error: cannot find symbol
+	public Checkout(Operadora operadora, Impressora impressora) {
+	                ^
+  symbol:   class Operadora
+  location: class Checkout
+Checkout.java:12: error: cannot find symbol
+	public Checkout(Operadora operadora, Impressora impressora) {
+	                                     ^
+  symbol:   class Impressora
+  location: class Checkout
+Checkout.java:17: error: cannot find symbol
+	public void fecharCompra(Compra compra, Cartao cartao) {
+	                         ^
+  symbol:   class Compra
+  location: class Checkout
+Checkout.java:17: error: cannot find symbol
+	public void fecharCompra(Compra compra, Cartao cartao) {
+	                                        ^
+  symbol:   class Cartao
+  location: class Checkout
+9 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\caixa\ Compra.java 
+Compra.java:3: error: package com.algaworks.impressora does not exist
+import com.algaworks.impressora.Imprimivel;
+                               ^
+Compra.java:5: error: package com.algaworks.pagamento does not exist
+import com.algaworks.pagamento.Autorizavel;
+                              ^
+Compra.java:8: error: cannot find symbol
+public class Compra implements Autorizavel, Imprimivel{ // Uma compra tamb√©m √© imprim√≠vel, para poder imprimir o comprovante de compra. e tem 2 m√©todos abstratos para implementar, se n√£o, n√£o vai compilar
+                               ^
+  symbol: class Autorizavel
+Compra.java:8: error: cannot find symbol
+public class Compra implements Autorizavel, Imprimivel{ // Uma compra tamb√©m √© imprim√≠vel, para poder imprimir o comprovante de compra. e tem 2 m√©todos abstratos para implementar, se n√£o, n√£o vai compilar
+                                            ^
+  symbol: class Imprimivel
+Compra.java:14: error: method does not override or implement a method from a supertype
+	@Override // Override significa: veio sobrescrevendo de autorizavel
+	^
+Compra.java:37: error: method does not override or implement a method from a supertype
+	@Override
+	^
+Compra.java:42: error: method does not override or implement a method from a supertype
+	@Override
+	^
+7 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Barco.java 
+Barco.java:3: error: cannot find symbol
+public class Barco implements Seguravel{
+                              ^
+  symbol: class Seguravel
+Barco.java:14: error: method does not override or implement a method from a supertype
+	@Override
+	^
+Barco.java:26: error: method does not override or implement a method from a supertype
+	@Override
+	^
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Carro.java 
+Carro.java:3: error: cannot find symbol
+public class Carro implements Seguravel{
+                              ^
+  symbol: class Seguravel
+Carro.java:13: error: method does not override or implement a method from a supertype
+	@Override
+	^
+Carro.java:23: error: method does not override or implement a method from a supertype
+	@Override
+	^
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ CorretoraSeguros.java 
+CorretoraSeguros.java:5: error: cannot find symbol
+	public void fazerPropostaSeguro(Seguravel objetoSeguravel) {
+	                                ^
+  symbol:   class Seguravel
+  location: class CorretoraSeguros
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Imovel.java 
+Imovel.java:3: error: cannot find symbol
+public class Imovel implements Seguravel{
+                               ^
+  symbol: class Seguravel
+Imovel.java:13: error: method does not override or implement a method from a supertype
+	@Override
+	^
+Imovel.java:21: error: method does not override or implement a method from a supertype
+	@Override
+	^
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Notebook.java 
+Notebook.java:3: error: cannot find symbol
+public class Notebook implements Seguravel{
+                                 ^
+  symbol: class Seguravel
+Notebook.java:13: error: method does not override or implement a method from a supertype
+	@Override
+	^
+Notebook.java:25: error: method does not override or implement a method from a supertype
+	@Override
+	^
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Principal.java 
+Principal.java:5: error: cannot find symbol
+		CorretoraSeguros corretora = new CorretoraSeguros();
+		^
+  symbol:   class CorretoraSeguros
+  location: class Principal
+Principal.java:5: error: cannot find symbol
+		CorretoraSeguros corretora = new CorretoraSeguros();
+		                                 ^
+  symbol:   class CorretoraSeguros
+  location: class Principal
+Principal.java:9: error: package utilitarios does not exist
+			utilitarios.Console.LimparEDecolar("Decolandooooo");
+			           ^
+Principal.java:15: error: cannot find symbol
+		Carro carro = new Carro(55600, 2019);
+		^
+  symbol:   class Carro
+  location: class Principal
+Principal.java:15: error: cannot find symbol
+		Carro carro = new Carro(55600, 2019);
+		                  ^
+  symbol:   class Carro
+  location: class Principal
+Principal.java:16: error: cannot find symbol
+		Imovel imovel = new Imovel(125000, 320);
+		^
+  symbol:   class Imovel
+  location: class Principal
+Principal.java:16: error: cannot find symbol
+		Imovel imovel = new Imovel(125000, 320);
+		                    ^
+  symbol:   class Imovel
+  location: class Principal
+Principal.java:17: error: cannot find symbol
+		Barco barco = new Barco(500000, 2018);
+		^
+  symbol:   class Barco
+  location: class Principal
+Principal.java:17: error: cannot find symbol
+		Barco barco = new Barco(500000, 2018);
+		                  ^
+  symbol:   class Barco
+  location: class Principal
+Principal.java:18: error: cannot find symbol
+		Notebook notebook = new Notebook(5900, 2022);
+		^
+  symbol:   class Notebook
+  location: class Principal
+Principal.java:18: error: cannot find symbol
+		Notebook notebook = new Notebook(5900, 2022);
+		                        ^
+  symbol:   class Notebook
+  location: class Principal
+11 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap05\exercicios\interfaces_e_polimorfismo\ Seguravel.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\ calculoIMC.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ Produto.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ ProdutoPerecivel.java 
+ProdutoPerecivel.java:3: error: cannot find symbol
+public class ProdutoPerecivel extends Produto{
+                                      ^
+  symbol: class Produto
+ProdutoPerecivel.java:9: error: cannot find symbol
+		System.out.println("Descri√ß√£o: " + super.getDescricao() + ". Vencendo em: " + dataValidade);
+		                                     ^
+  symbol:   variable super
+  location: class ProdutoPerecivel
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\abstrata\ TesteClasseAbstrata.java 
+TesteClasseAbstrata.java:7: error: cannot find symbol
+		Produto p = new ProdutoPerecivel(); // polimorfismo
+		^
+  symbol:   class Produto
+  location: class TesteClasseAbstrata
+TesteClasseAbstrata.java:7: error: cannot find symbol
+		Produto p = new ProdutoPerecivel(); // polimorfismo
+		                ^
+  symbol:   class ProdutoPerecivel
+  location: class TesteClasseAbstrata
+TesteClasseAbstrata.java:10: error: cannot find symbol
+		ProdutoPerecivel pp = (ProdutoPerecivel) p; // Relembrando casting de objetos
+		^
+  symbol:   class ProdutoPerecivel
+  location: class TesteClasseAbstrata
+TesteClasseAbstrata.java:10: error: cannot find symbol
+		ProdutoPerecivel pp = (ProdutoPerecivel) p; // Relembrando casting de objetos
+		                       ^
+  symbol:   class ProdutoPerecivel
+  location: class TesteClasseAbstrata
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\animal\ Cachorro.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ MegaSena.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ TesteClasseMath.java 
+TesteClasseMath.java:10: error: package utilitarios does not exist
+import static utilitarios.Console.Limpar;
+                         ^
+TesteClasseMath.java:10: error: static import only from classes and interfaces
+import static utilitarios.Console.Limpar;
+^
+TesteClasseMath.java:11: error: package utilitarios does not exist
+import static utilitarios.Console.PularLinha;
+                         ^
+TesteClasseMath.java:11: error: static import only from classes and interfaces
+import static utilitarios.Console.PularLinha;
+^
+TesteClasseMath.java:18: error: cannot find symbol
+		Limpar();
+		^
+  symbol:   method Limpar()
+  location: class TesteClasseMath
+TesteClasseMath.java:26: error: cannot find symbol
+		PularLinha();
+		^
+  symbol:   method PularLinha()
+  location: class TesteClasseMath
+TesteClasseMath.java:49: error: cannot find symbol
+			PularLinha();	
+			^
+  symbol:   method PularLinha()
+  location: class TesteClasseMath
+TesteClasseMath.java:56: error: cannot find symbol
+			PularLinha();
+			^
+  symbol:   method PularLinha()
+  location: class TesteClasseMath
+TesteClasseMath.java:62: error: cannot find symbol
+			PularLinha();
+			^
+  symbol:   method PularLinha()
+  location: class TesteClasseMath
+TesteClasseMath.java:78: error: cannot find symbol
+		PularLinha();
+		^
+  symbol:   method PularLinha()
+  location: class TesteClasseMath
+10 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\classmath\ TesteMegaSena.java 
+TesteMegaSena.java:13: error: cannot find symbol
+		MegaSena megaSena = new MegaSena();
+		^
+  symbol:   class MegaSena
+  location: class TesteMegaSena
+TesteMegaSena.java:13: error: cannot find symbol
+		MegaSena megaSena = new MegaSena();
+		                        ^
+  symbol:   class MegaSena
+  location: class TesteMegaSena
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ Aluno.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ SimuladorBancoDeDados.java 
+SimuladorBancoDeDados.java:8: error: cannot find symbol
+	public static Set<Aluno> buscarAlunos() {
+	                  ^
+  symbol:   class Aluno
+  location: class SimuladorBancoDeDados
+SimuladorBancoDeDados.java:9: error: cannot find symbol
+		Set<Aluno> alunos = new HashSet<Aluno>();
+		    ^
+  symbol:   class Aluno
+  location: class SimuladorBancoDeDados
+SimuladorBancoDeDados.java:9: error: cannot find symbol
+		Set<Aluno> alunos = new HashSet<Aluno>();
+		                                ^
+  symbol:   class Aluno
+  location: class SimuladorBancoDeDados
+SimuladorBancoDeDados.java:10: error: cannot find symbol
+		alunos.add(new Aluno("Ricardo"));
+		               ^
+  symbol:   class Aluno
+  location: class SimuladorBancoDeDados
+SimuladorBancoDeDados.java:11: error: cannot find symbol
+		alunos.add(new Aluno("Thiago"));
+		               ^
+  symbol:   class Aluno
+  location: class SimuladorBancoDeDados
+SimuladorBancoDeDados.java:12: error: cannot find symbol
+		alunos.add(new Aluno("Maria"));
+		               ^
+  symbol:   class Aluno
+  location: class SimuladorBancoDeDados
+6 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteListArrayList.java 
+TesteListArrayList.java:25: error: cannot find symbol
+	public static void imprimirAlunos(List<Aluno> alunos) {
+	                                       ^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:9: error: cannot find symbol
+		Aluno a1 = new Aluno("Jo√£o");
+		^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:9: error: cannot find symbol
+		Aluno a1 = new Aluno("Jo√£o");
+		               ^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:10: error: cannot find symbol
+		Aluno a2 = new Aluno("Maria");
+		^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:10: error: cannot find symbol
+		Aluno a2 = new Aluno("Maria");
+		               ^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:11: error: cannot find symbol
+		Aluno a3 = new Aluno("Jos√©");
+		^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:11: error: cannot find symbol
+		Aluno a3 = new Aluno("Jos√©");
+		               ^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:12: error: cannot find symbol
+		Aluno a4 = new Aluno("Pedro");
+		^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:12: error: cannot find symbol
+		Aluno a4 = new Aluno("Pedro");
+		               ^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:14: error: cannot find symbol
+		List<Aluno> alunos = new ArrayList<Aluno>();
+		     ^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:14: error: cannot find symbol
+		List<Aluno> alunos = new ArrayList<Aluno>();
+		                                   ^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+TesteListArrayList.java:26: error: cannot find symbol
+		for (Aluno a : alunos) {															// --->> for (int i = 0; i < alunos.size(); i++) {
+		     ^
+  symbol:   class Aluno
+  location: class TesteListArrayList
+12 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteMapHashMap.java 
+TesteMapHashMap.java:28: error: cannot find symbol
+	private static void imprimirAlunos(Map<String, Aluno> alunos) { 
+	                                               ^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:9: error: cannot find symbol
+		Aluno a1 = new Aluno("Jo√£o");
+		^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:9: error: cannot find symbol
+		Aluno a1 = new Aluno("Jo√£o");
+		               ^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:10: error: cannot find symbol
+		Aluno a2 = new Aluno("Maria");
+		^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:10: error: cannot find symbol
+		Aluno a2 = new Aluno("Maria");
+		               ^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:11: error: cannot find symbol
+		Aluno a3 = new Aluno("Jos√©");
+		^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:11: error: cannot find symbol
+		Aluno a3 = new Aluno("Jos√©");
+		               ^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:12: error: cannot find symbol
+		Aluno a4 = new Aluno("Pedro");
+		^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:12: error: cannot find symbol
+		Aluno a4 = new Aluno("Pedro");
+		               ^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:14: error: cannot find symbol
+		Map<String, Aluno> alunos = new HashMap<String, Aluno>();  //  Chave e valor 
+		            ^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:14: error: cannot find symbol
+		Map<String, Aluno> alunos = new HashMap<String, Aluno>();  //  Chave e valor 
+		                                                ^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:24: error: cannot find symbol
+		Aluno alunoRecuperado = alunos.get("3");// pode recuperar o objeto pela chave
+		^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+TesteMapHashMap.java:29: error: cannot find symbol
+		for (Aluno a : alunos.values()) {							// escolhe qual o tipo de dado que vai retornar (chave ou valor)
+		     ^
+  symbol:   class Aluno
+  location: class TesteMapHashMap
+13 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteSetHashSet.java 
+TesteSetHashSet.java:24: error: cannot find symbol
+	public static void imprimirAlunos(Set<Aluno> alunos) {
+	                                      ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:9: error: cannot find symbol
+		Aluno a1 = new Aluno("Jo√£o");
+		^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:9: error: cannot find symbol
+		Aluno a1 = new Aluno("Jo√£o");
+		               ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:10: error: cannot find symbol
+		Aluno a2 = new Aluno("Maria");
+		^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:10: error: cannot find symbol
+		Aluno a2 = new Aluno("Maria");
+		               ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:11: error: cannot find symbol
+		Aluno a3 = new Aluno("Jos√©");
+		^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:11: error: cannot find symbol
+		Aluno a3 = new Aluno("Jos√©");
+		               ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:12: error: cannot find symbol
+		Aluno a4 = new Aluno("Pedro");
+		^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:12: error: cannot find symbol
+		Aluno a4 = new Aluno("Pedro");
+		               ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:14: error: cannot find symbol
+		Set<Aluno> alunos = new HashSet<Aluno>();
+		    ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:14: error: cannot find symbol
+		Set<Aluno> alunos = new HashSet<Aluno>();
+		                                ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+TesteSetHashSet.java:25: error: cannot find symbol
+		for (Aluno a : alunos) {
+		     ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet
+12 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\ TesteSetHashSet2.java 
+TesteSetHashSet2.java:8: error: cannot find symbol
+		Set<Aluno> alunos = SimuladorBancoDeDados.buscarAlunos();
+		    ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet2
+TesteSetHashSet2.java:8: error: cannot find symbol
+		Set<Aluno> alunos = SimuladorBancoDeDados.buscarAlunos();
+		                    ^
+  symbol:   variable SimuladorBancoDeDados
+  location: class TesteSetHashSet2
+TesteSetHashSet2.java:11: error: cannot find symbol
+		Aluno alunoSorteado = new Aluno("Maria");
+		^
+  symbol:   class Aluno
+  location: class TesteSetHashSet2
+TesteSetHashSet2.java:11: error: cannot find symbol
+		Aluno alunoSorteado = new Aluno("Maria");
+		                          ^
+  symbol:   class Aluno
+  location: class TesteSetHashSet2
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Cargo.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Governo.java 
+Governo.java:12: error: cannot find symbol
+	private Map<String, List<Politico>> partidosPoliticos;
+	                         ^
+  symbol:   class Politico
+  location: class Governo
+Governo.java:18: error: cannot find symbol
+	public void adicionarPolitico(String partidoPolitico, Politico politico) {
+	                                                      ^
+  symbol:   class Politico
+  location: class Governo
+Governo.java:49: error: cannot find symbol
+	public BigDecimal calcularGastosComSalarioParaCargo(Cargo cargo, String partidoPolitico) {
+	                                                    ^
+  symbol:   class Cargo
+  location: class Governo
+Governo.java:15: error: cannot find symbol
+		this.partidosPoliticos = new HashMap<String, List<Politico>>();
+		                                                  ^
+  symbol:   class Politico
+  location: class Governo
+Governo.java:20: error: cannot find symbol
+		List<Politico> politicos = this.partidosPoliticos.get(partidoPolitico);
+		     ^
+  symbol:   class Politico
+  location: class Governo
+Governo.java:25: error: cannot find symbol
+			politicos = new ArrayList<Politico>();
+			                          ^
+  symbol:   class Politico
+  location: class Governo
+Governo.java:39: error: cannot find symbol
+		List<Politico> politicos = this.partidosPoliticos.get(partidoPolitico);
+		     ^
+  symbol:   class Politico
+  location: class Governo
+Governo.java:42: error: cannot find symbol
+		for (Politico politico : politicos) {
+		     ^
+  symbol:   class Politico
+  location: class Governo
+Governo.java:52: error: cannot find symbol
+		List<Politico> politicos = this.partidosPoliticos.get(partidoPolitico);
+		     ^
+  symbol:   class Politico
+  location: class Governo
+Governo.java:55: error: cannot find symbol
+		for (Politico politico : politicos) {
+		     ^
+  symbol:   class Politico
+  location: class Governo
+10 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Politico.java 
+Politico.java:6: error: cannot find symbol
+	private Cargo cargo;
+	        ^
+  symbol:   class Cargo
+  location: class Politico
+Politico.java:16: error: cannot find symbol
+	public Cargo getCargo() {
+	       ^
+  symbol:   class Cargo
+  location: class Politico
+Politico.java:20: error: cannot find symbol
+	public void setCargo(Cargo cargo) {
+	                     ^
+  symbol:   class Cargo
+  location: class Politico
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\collections\desafio\ Principal.java 
+Principal.java:12: error: cannot find symbol
+		Governo governo = new Governo();
+		^
+  symbol:   class Governo
+  location: class Principal
+Principal.java:12: error: cannot find symbol
+		Governo governo = new Governo();
+		                      ^
+  symbol:   class Governo
+  location: class Principal
+Principal.java:15: error: cannot find symbol
+		Cargo vereador = new Cargo();
+		^
+  symbol:   class Cargo
+  location: class Principal
+Principal.java:15: error: cannot find symbol
+		Cargo vereador = new Cargo();
+		                     ^
+  symbol:   class Cargo
+  location: class Principal
+Principal.java:19: error: cannot find symbol
+		Cargo deputadoEstadual = new Cargo();
+		^
+  symbol:   class Cargo
+  location: class Principal
+Principal.java:19: error: cannot find symbol
+		Cargo deputadoEstadual = new Cargo();
+		                             ^
+  symbol:   class Cargo
+  location: class Principal
+Principal.java:23: error: cannot find symbol
+		Cargo prefeito = new Cargo();
+		^
+  symbol:   class Cargo
+  location: class Principal
+Principal.java:23: error: cannot find symbol
+		Cargo prefeito = new Cargo();
+		                     ^
+  symbol:   class Cargo
+  location: class Principal
+Principal.java:28: error: cannot find symbol
+		Politico politico = new Politico();
+		^
+  symbol:   class Politico
+  location: class Principal
+Principal.java:28: error: cannot find symbol
+		Politico politico = new Politico();
+		                        ^
+  symbol:   class Politico
+  location: class Principal
+Principal.java:33: error: cannot find symbol
+		politico = new Politico();
+		               ^
+  symbol:   class Politico
+  location: class Principal
+Principal.java:38: error: cannot find symbol
+		politico = new Politico();
+		               ^
+  symbol:   class Politico
+  location: class Principal
+Principal.java:43: error: cannot find symbol
+		politico = new Politico();
+		               ^
+  symbol:   class Politico
+  location: class Principal
+Principal.java:49: error: cannot find symbol
+		politico = new Politico();
+		               ^
+  symbol:   class Politico
+  location: class Principal
+Principal.java:54: error: cannot find symbol
+		politico = new Politico();
+		               ^
+  symbol:   class Politico
+  location: class Principal
+Principal.java:60: error: cannot find symbol
+		politico = new Politico();
+		               ^
+  symbol:   class Politico
+  location: class Principal
+16 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ CalculadoraGravidez.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ Principal.java 
+Principal.java:24: error: cannot find symbol
+			CalculadoraGravidez calculadora = new CalculadoraGravidez(dataUltimoPeriodoMenstrual);
+			^
+  symbol:   class CalculadoraGravidez
+  location: class Principal
+Principal.java:24: error: cannot find symbol
+			CalculadoraGravidez calculadora = new CalculadoraGravidez(dataUltimoPeriodoMenstrual);
+			                                      ^
+  symbol:   class CalculadoraGravidez
+  location: class Principal
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ TesteCalendar.java 
+TesteCalendar.java:10: error: package utilitarios does not exist
+import static utilitarios.Console.Limpar;
+                         ^
+TesteCalendar.java:10: error: static import only from classes and interfaces
+import static utilitarios.Console.Limpar;
+^
+TesteCalendar.java:14: error: cannot find symbol
+		Limpar();
+		^
+  symbol:   method Limpar()
+  location: class TesteCalendar
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\datas\ TesteDatas.java 
+TesteDatas.java:9: error: package utilitarios does not exist
+import static utilitarios.Console.Limpar;
+                         ^
+TesteDatas.java:9: error: static import only from classes and interfaces
+import static utilitarios.Console.Limpar;
+^
+TesteDatas.java:15: error: cannot find symbol
+		Limpar();
+		^
+  symbol:   method Limpar()
+  location: class TesteDatas
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ Carta.java 
+Carta.java:6: error: cannot find symbol
+ private Naipe naipe; // Criando um novo tipo de dado, com nesse caso, 4 valores poss√≠veis
+         ^
+  symbol:   class Naipe
+  location: class Carta
+Carta.java:8: error: cannot find symbol
+ public Carta(int numero, Naipe naipe) {
+                          ^
+  symbol:   class Naipe
+  location: class Carta
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ Naipe.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ OperacaoAritmetica.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ TesteEnum.java 
+TesteEnum.java:5: error: cannot find symbol
+  Carta quatroPaus = new Carta(4, Naipe.PAUS);  
+  ^
+  symbol:   class Carta
+  location: class TesteEnum
+TesteEnum.java:5: error: cannot find symbol
+  Carta quatroPaus = new Carta(4, Naipe.PAUS);  
+                         ^
+  symbol:   class Carta
+  location: class TesteEnum
+TesteEnum.java:5: error: cannot find symbol
+  Carta quatroPaus = new Carta(4, Naipe.PAUS);  
+                                  ^
+  symbol:   variable Naipe
+  location: class TesteEnum
+TesteEnum.java:8: error: cannot find symbol
+  Carta quatroOuro = new Carta(2, Naipe.OURO);
+  ^
+  symbol:   class Carta
+  location: class TesteEnum
+TesteEnum.java:8: error: cannot find symbol
+  Carta quatroOuro = new Carta(2, Naipe.OURO);
+                         ^
+  symbol:   class Carta
+  location: class TesteEnum
+TesteEnum.java:8: error: cannot find symbol
+  Carta quatroOuro = new Carta(2, Naipe.OURO);
+                                  ^
+  symbol:   variable Naipe
+  location: class TesteEnum
+6 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\enums\ TesteOperacaoEnum.java 
+TesteOperacaoEnum.java:6: error: cannot find symbol
+    OperacaoAritmetica o1 = OperacaoAritmetica.ADICAO;
+    ^
+  symbol:   class OperacaoAritmetica
+  location: class TesteOperacaoEnum
+TesteOperacaoEnum.java:6: error: cannot find symbol
+    OperacaoAritmetica o1 = OperacaoAritmetica.ADICAO;
+                            ^
+  symbol:   variable OperacaoAritmetica
+  location: class TesteOperacaoEnum
+TesteOperacaoEnum.java:10: error: cannot find symbol
+    for (OperacaoAritmetica ao : OperacaoAritmetica.values()) { // values √© um m√©todo pre-definido do enum, que retorna todos os enum no array
+                                 ^
+  symbol:   variable OperacaoAritmetica
+  location: class TesteOperacaoEnum
+TesteOperacaoEnum.java:10: error: cannot find symbol
+    for (OperacaoAritmetica ao : OperacaoAritmetica.values()) { // values √© um m√©todo pre-definido do enum, que retorna todos os enum no array
+         ^
+  symbol:   class OperacaoAritmetica
+  location: class TesteOperacaoEnum
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ ContaCorrente.java 
+ContaCorrente.java:18: error: cannot find symbol
+	public void sacar(double quantidade) throws SaldoInsuficienteException {
+	                                            ^
+  symbol:   class SaldoInsuficienteException
+  location: class ContaCorrente
+ContaCorrente.java:21: error: cannot find symbol
+			throw new SaldoInsuficienteException("Voc√™ n√£o possui saldo suficiente");
+			          ^
+  symbol:   class SaldoInsuficienteException
+  location: class ContaCorrente
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ SaldoInsuficienteException.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ TesteExcecoes.java 
+TesteExcecoes.java:10: error: cannot find symbol
+		ContaCorrente cc = new ContaCorrente(100);
+		^
+  symbol:   class ContaCorrente
+  location: class TesteExcecoes
+TesteExcecoes.java:10: error: cannot find symbol
+		ContaCorrente cc = new ContaCorrente(100);
+		                       ^
+  symbol:   class ContaCorrente
+  location: class TesteExcecoes
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\excecoes\ TesteExcecoesChecadas.java 
+TesteExcecoesChecadas.java:6: error: cannot find symbol
+		ContaCorrente cc = new ContaCorrente(100);
+		^
+  symbol:   class ContaCorrente
+  location: class TesteExcecoesChecadas
+TesteExcecoesChecadas.java:6: error: cannot find symbol
+		ContaCorrente cc = new ContaCorrente(100);
+		                       ^
+  symbol:   class ContaCorrente
+  location: class TesteExcecoesChecadas
+TesteExcecoesChecadas.java:10: error: cannot find symbol
+		} catch (SaldoInsuficienteException e) {
+		         ^
+  symbol:   class SaldoInsuficienteException
+  location: class TesteExcecoesChecadas
+TesteExcecoesChecadas.java:17: error: cannot find symbol
+		} catch (SaldoInsuficienteException e) {
+		         ^
+  symbol:   class SaldoInsuficienteException
+  location: class TesteExcecoesChecadas
+TesteExcecoesChecadas.java:28: error: cannot find symbol
+		} catch (SaldoInsuficienteException e) {
+		         ^
+  symbol:   class SaldoInsuficienteException
+  location: class TesteExcecoesChecadas
+5 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Jogador.java 
+Jogador.java:3: error: cannot find symbol
+public class Jogador extends Pessoa { // s√≥ estende uma classe por vez
+                             ^
+  symbol: class Pessoa
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Pessoa.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ Tecnico.java 
+Tecnico.java:3: error: cannot find symbol
+public class Tecnico extends Pessoa{
+                             ^
+  symbol: class Pessoa
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\heranca\ TesteHeranca.java 
+TesteHeranca.java:5: error: cannot find symbol
+		Jogador j = new Jogador();
+		^
+  symbol:   class Jogador
+  location: class TesteHeranca
+TesteHeranca.java:5: error: cannot find symbol
+		Jogador j = new Jogador();
+		                ^
+  symbol:   class Jogador
+  location: class TesteHeranca
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ Contador.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ MatematicaUtil.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ TesteContador.java 
+TesteContador.java:16: error: cannot find symbol
+        Contador.count++;
+        ^
+  symbol:   variable Contador
+  location: class TesteContador
+TesteContador.java:20: error: cannot find symbol
+        Contador c1 = new Contador();   // c1 √© um objeto 
+        ^
+  symbol:   class Contador
+  location: class TesteContador
+TesteContador.java:20: error: cannot find symbol
+        Contador c1 = new Contador();   // c1 √© um objeto 
+                          ^
+  symbol:   class Contador
+  location: class TesteContador
+TesteContador.java:24: error: cannot find symbol
+        Contador.imprimirContador();
+        ^
+  symbol:   variable Contador
+  location: class TesteContador
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\modificadorstatic\ TesteMatematica.java 
+TesteMatematica.java:10: error: unmappable character (0x81) for encoding windows-1252
+		System.out.println("√?rea do c√≠rculo: " + areaCirculo);
+		                     ^
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\numeros\ Principal.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\numeros\ TesteNumeros.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ Conta.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ ContaCorrente.java 
+ContaCorrente.java:3: error: cannot find symbol
+public class ContaCorrente extends Conta{ // "extends" pode ler como "√© uma"
+                                   ^
+  symbol: class Conta
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ ContaPoupanca.java 
+ContaPoupanca.java:4: error: cannot find symbol
+public class ContaPoupanca extends Conta{
+                                   ^
+  symbol: class Conta
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\polimorfismo\ TestePolimosrfismo.java 
+TestePolimosrfismo.java:26: error: cannot find symbol
+	public static void imprimirSaldo(Conta conta) {
+	                                 ^
+  symbol:   class Conta
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:5: error: package utilitarios does not exist
+		utilitarios.Console.Limpar();
+		           ^
+TestePolimosrfismo.java:6: error: cannot find symbol
+		Conta conta = new Conta();
+		^
+  symbol:   class Conta
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:6: error: cannot find symbol
+		Conta conta = new Conta();
+		                  ^
+  symbol:   class Conta
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:11: error: cannot find symbol
+		ContaCorrente contaCorrente = new ContaCorrente(); // Conta Corrente √© uma Conta? Entao pode ser atribuido a uma variavel do tipo Conta, mas o contr√°rio n√£o √© verdadeiro. O Objeto ContaCorrente √© uma Conta, mas o Objeto Conta n√£o √© uma ContaCorrente	
+		^
+  symbol:   class ContaCorrente
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:11: error: cannot find symbol
+		ContaCorrente contaCorrente = new ContaCorrente(); // Conta Corrente √© uma Conta? Entao pode ser atribuido a uma variavel do tipo Conta, mas o contr√°rio n√£o √© verdadeiro. O Objeto ContaCorrente √© uma Conta, mas o Objeto Conta n√£o √© uma ContaCorrente	
+		                                  ^
+  symbol:   class ContaCorrente
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:17: error: cannot find symbol
+		ContaPoupanca contaPoupanca = new ContaPoupanca();
+		^
+  symbol:   class ContaPoupanca
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:17: error: cannot find symbol
+		ContaPoupanca contaPoupanca = new ContaPoupanca();
+		                                  ^
+  symbol:   class ContaPoupanca
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:29: error: cannot find symbol
+		if (conta instanceof ContaCorrente) { // instanceof verifica se o objeto √© do tipo ContaCorrente (esse if d√° ctz disto)
+		                     ^
+  symbol:   class ContaCorrente
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:30: error: cannot find symbol
+			ContaCorrente cc = (ContaCorrente) conta; // Downcasting, convertendo o tipo da variavel conta para ContaCorrente
+			^
+  symbol:   class ContaCorrente
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:30: error: cannot find symbol
+			ContaCorrente cc = (ContaCorrente) conta; // Downcasting, convertendo o tipo da variavel conta para ContaCorrente
+			                    ^
+  symbol:   class ContaCorrente
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:34: error: cannot find symbol
+		if (conta instanceof ContaPoupanca) {
+		                     ^
+  symbol:   class ContaPoupanca
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:35: error: cannot find symbol
+			ContaPoupanca cp = (ContaPoupanca) conta;
+			^
+  symbol:   class ContaPoupanca
+  location: class TestePolimosrfismo
+TestePolimosrfismo.java:35: error: cannot find symbol
+			ContaPoupanca cp = (ContaPoupanca) conta;
+			                    ^
+  symbol:   class ContaPoupanca
+  location: class TestePolimosrfismo
+14 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\ CadastroPessoa.java 
+CadastroPessoa.java:5: error: cannot find symbol
+	public void cadastrar(Pessoa pessoa) {
+	                      ^
+  symbol:   class Pessoa
+  location: class CadastroPessoa
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\ Pessoa.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\ TesteCadastro.java 
+TesteCadastro.java:7: error: package utilitarios does not exist
+		utilitarios.Console.Limpar();
+		           ^
+TesteCadastro.java:9: error: cannot find symbol
+		CadastroPessoa cadastro = new CadastroPessoa();
+		^
+  symbol:   class CadastroPessoa
+  location: class TesteCadastro
+TesteCadastro.java:9: error: cannot find symbol
+		CadastroPessoa cadastro = new CadastroPessoa();
+		                              ^
+  symbol:   class CadastroPessoa
+  location: class TesteCadastro
+TesteCadastro.java:11: error: cannot find symbol
+		Pessoa pessoa = new Pessoa("Jos√©", 32);
+		^
+  symbol:   class Pessoa
+  location: class TesteCadastro
+TesteCadastro.java:11: error: cannot find symbol
+		Pessoa pessoa = new Pessoa("Jos√©", 32);
+		                    ^
+  symbol:   class Pessoa
+  location: class TesteCadastro
+5 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\exercicio\ MaquinaCafe.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobrecarga\exercicio\ TesteMaquinaCafe.java 
+TesteMaquinaCafe.java:5: error: package utilitarios does not exist
+		utilitarios.Console.Limpar();
+		           ^
+TesteMaquinaCafe.java:6: error: cannot find symbol
+		MaquinaCafe maquina = new MaquinaCafe();
+		^
+  symbol:   class MaquinaCafe
+  location: class TesteMaquinaCafe
+TesteMaquinaCafe.java:6: error: cannot find symbol
+		MaquinaCafe maquina = new MaquinaCafe();
+		                          ^
+  symbol:   class MaquinaCafe
+  location: class TesteMaquinaCafe
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobreposicao\ Produto.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobreposicao\ ProdutoPerecivel.java 
+ProdutoPerecivel.java:5: error: cannot find symbol
+public class ProdutoPerecivel extends Produto{
+                                      ^
+  symbol: class Produto
+ProdutoPerecivel.java:10: error: cannot find symbol
+    super.identificar();    // Chama do pai (superclasse) o m√©todo identificar() e depois executa o que est√° abaixo
+    ^
+  symbol:   variable super
+  location: class ProdutoPerecivel
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\sobreposicao\ TesteSobreposicao.java 
+TesteSobreposicao.java:8: error: package utilitarios does not exist
+    utilitarios.Console.LimparEDecolar("Output do programa TesteSobreposicao.java:");
+               ^
+TesteSobreposicao.java:10: error: cannot find symbol
+    ProdutoPerecivel pp = new ProdutoPerecivel();
+    ^
+  symbol:   class ProdutoPerecivel
+  location: class TesteSobreposicao
+TesteSobreposicao.java:10: error: cannot find symbol
+    ProdutoPerecivel pp = new ProdutoPerecivel();
+                              ^
+  symbol:   class ProdutoPerecivel
+  location: class TesteSobreposicao
+TesteSobreposicao.java:15: error: package utilitarios does not exist
+    utilitarios.Console.PularLinha();
+               ^
+4 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\strings\ TesteStrings.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\treinador\ DonoCachorro.java 
+DonoCachorro.java:3: error: package com.algaworks.curso.fjoo.animal does not exist
+import com.algaworks.curso.fjoo.animal.Cachorro;
+                                      ^
+DonoCachorro.java:7: error: cannot find symbol
+	void ensinarCachorroSentar(Cachorro cachorro) {
+	                           ^
+  symbol:   class Cachorro
+  location: class DonoCachorro
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\curso\fjoo\treinador\ TreinadorCachorro.java 
+TreinadorCachorro.java:3: error: package com.algaworks.curso.fjoo.animal does not exist
+import com.algaworks.curso.fjoo.animal.Cachorro;
+                                      ^
+TreinadorCachorro.java:8: error: cannot find symbol
+		Cachorro cachorro = new Cachorro();
+		^
+  symbol:   class Cachorro
+  location: class TreinadorCachorro
+TreinadorCachorro.java:8: error: cannot find symbol
+		Cachorro cachorro = new Cachorro();
+		                        ^
+  symbol:   class Cachorro
+  location: class TreinadorCachorro
+TreinadorCachorro.java:11: error: cannot find symbol
+		DonoCachorro dono = new DonoCachorro();
+		^
+  symbol:   class DonoCachorro
+  location: class TreinadorCachorro
+TreinadorCachorro.java:11: error: cannot find symbol
+		DonoCachorro dono = new DonoCachorro();
+		                        ^
+  symbol:   class DonoCachorro
+  location: class TreinadorCachorro
+5 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\ OperacaoContaException.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\ Principal.java 
+Principal.java:3: error: package com.algaworks.cursojava.financeiro.modelo does not exist
+import com.algaworks.cursojava.financeiro.modelo.ContaPagar;
+                                                ^
+Principal.java:4: error: package com.algaworks.cursojava.financeiro.modelo does not exist
+import com.algaworks.cursojava.financeiro.modelo.ContaReceber;
+                                                ^
+Principal.java:5: error: package com.algaworks.cursojava.financeiro.modelo does not exist
+import com.algaworks.cursojava.financeiro.modelo.Conta;
+                                                ^
+Principal.java:6: error: package com.algaworks.cursojava.financeiro.modelo does not exist
+import com.algaworks.cursojava.financeiro.modelo.Fornecedor;
+                                                ^
+Principal.java:7: error: package com.algaworks.cursojava.financeiro.modelo does not exist
+import com.algaworks.cursojava.financeiro.modelo.Cliente;
+                                                ^
+Principal.java:9: error: package utilitarios does not exist
+import static utilitarios.Console.Limpar;
+                         ^
+Principal.java:9: error: static import only from classes and interfaces
+import static utilitarios.Console.Limpar;
+^
+Principal.java:15: error: cannot find symbol
+		Fornecedor imobiliaria = new Fornecedor();
+		^
+  symbol:   class Fornecedor
+  location: class Principal
+Principal.java:15: error: cannot find symbol
+		Fornecedor imobiliaria = new Fornecedor();
+		                             ^
+  symbol:   class Fornecedor
+  location: class Principal
+Principal.java:17: error: cannot find symbol
+		Fornecedor mercado = new Fornecedor();
+		^
+  symbol:   class Fornecedor
+  location: class Principal
+Principal.java:17: error: cannot find symbol
+		Fornecedor mercado = new Fornecedor();
+		                         ^
+  symbol:   class Fornecedor
+  location: class Principal
+Principal.java:21: error: cannot find symbol
+		Cliente atacadista = new Cliente();
+		^
+  symbol:   class Cliente
+  location: class Principal
+Principal.java:21: error: cannot find symbol
+		Cliente atacadista = new Cliente();
+		                         ^
+  symbol:   class Cliente
+  location: class Principal
+Principal.java:23: error: cannot find symbol
+		Cliente telecom = new Cliente();
+		^
+  symbol:   class Cliente
+  location: class Principal
+Principal.java:23: error: cannot find symbol
+		Cliente telecom = new Cliente();
+		                      ^
+  symbol:   class Cliente
+  location: class Principal
+Principal.java:27: error: cannot find symbol
+		ContaPagar contaPagar1 = new ContaPagar();
+		^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:27: error: cannot find symbol
+		ContaPagar contaPagar1 = new ContaPagar();
+		                             ^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:33: error: cannot find symbol
+		ContaPagar contaPagar2 = new ContaPagar(mercado, "Compras do m√™s", 390d, "19/05/2012");
+		^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:33: error: cannot find symbol
+		ContaPagar contaPagar2 = new ContaPagar(mercado, "Compras do m√™s", 390d, "19/05/2012");
+		                             ^
+  symbol:   class ContaPagar
+  location: class Principal
+Principal.java:36: error: cannot find symbol
+		ContaReceber contaReceber1 = new ContaReceber();
+		^
+  symbol:   class ContaReceber
+  location: class Principal
+Principal.java:36: error: cannot find symbol
+		ContaReceber contaReceber1 = new ContaReceber();
+		                                 ^
+  symbol:   class ContaReceber
+  location: class Principal
+Principal.java:42: error: cannot find symbol
+		ContaReceber contaReceber2 = new ContaReceber(telecom, "Manuten√ß√£o em sistema de conta online", 
+		^
+  symbol:   class ContaReceber
+  location: class Principal
+Principal.java:42: error: cannot find symbol
+		ContaReceber contaReceber2 = new ContaReceber(telecom, "Manuten√ß√£o em sistema de conta online", 
+		                                 ^
+  symbol:   class ContaReceber
+  location: class Principal
+Principal.java:46: error: cannot find symbol
+		Limpar();
+		^
+  symbol:   method Limpar()
+  location: class Principal
+Principal.java:56: error: cannot find symbol
+		} catch (OperacaoContaException e) {
+		         ^
+  symbol:   class OperacaoContaException
+  location: class Principal
+Principal.java:64: error: cannot find symbol
+		RelatorioContas relatorio = new RelatorioContas();
+		^
+  symbol:   class RelatorioContas
+  location: class Principal
+Principal.java:64: error: cannot find symbol
+		RelatorioContas relatorio = new RelatorioContas();
+		                                ^
+  symbol:   class RelatorioContas
+  location: class Principal
+Principal.java:65: error: cannot find symbol
+		Conta[] contas = new Conta[]{contaPagar1, contaPagar2, contaReceber1, contaReceber2};
+		^
+  symbol:   class Conta
+  location: class Principal
+Principal.java:65: error: cannot find symbol
+		Conta[] contas = new Conta[]{contaPagar1, contaPagar2, contaReceber1, contaReceber2};
+		                     ^
+  symbol:   class Conta
+  location: class Principal
+29 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\ RelatorioContas.java 
+RelatorioContas.java:3: error: package com.algaworks.cursojava.financeiro.modelo does not exist
+import com.algaworks.cursojava.financeiro.modelo.Conta;
+                                                ^
+RelatorioContas.java:7: error: cannot find symbol
+	public void exibirListagem(Conta[] contas) {
+	                           ^
+  symbol:   class Conta
+  location: class RelatorioContas
+RelatorioContas.java:11: error: cannot find symbol
+		for (Conta conta : contas) {
+		     ^
+  symbol:   class Conta
+  location: class RelatorioContas
+3 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ Cliente.java 
+Cliente.java:3: error: cannot find symbol
+public class Cliente extends Pessoa {
+                             ^
+  symbol: class Pessoa
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ Conta.java 
+Conta.java:3: error: cannot find symbol
+import com.algaworks.cursojava.financeiro.OperacaoContaException;
+                                         ^
+  symbol:   class OperacaoContaException
+  location: package com.algaworks.cursojava.financeiro
+Conta.java:10: error: cannot find symbol
+	protected SituacaoConta situacaoConta;
+	          ^
+  symbol:   class SituacaoConta
+  location: class Conta
+Conta.java:18: error: cannot find symbol
+	public void cancelar() throws OperacaoContaException {
+	                              ^
+  symbol:   class OperacaoContaException
+  location: class Conta
+Conta.java:59: error: cannot find symbol
+	public SituacaoConta getSituacaoConta() {
+	       ^
+  symbol:   class SituacaoConta
+  location: class Conta
+Conta.java:15: error: cannot find symbol
+		this.situacaoConta = SituacaoConta.PENDENTE;
+		                     ^
+  symbol:   variable SituacaoConta
+  location: class Conta
+Conta.java:23: error: cannot find symbol
+				throw new OperacaoContaException("N√£o posso cancelar uma conta que j√° foi paga.");
+				          ^
+  symbol:   class OperacaoContaException
+  location: class Conta
+Conta.java:26: error: cannot find symbol
+				throw new OperacaoContaException("N√£o posso cancelar uma conta que j√° foi cancelada.");			
+				          ^
+  symbol:   class OperacaoContaException
+  location: class Conta
+Conta.java:29: error: cannot find symbol
+				this.situacaoConta = SituacaoConta.CANCELADA;
+				                     ^
+  symbol:   variable SituacaoConta
+  location: class Conta
+8 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ ContaPagar.java 
+ContaPagar.java:3: error: cannot find symbol
+import com.algaworks.cursojava.financeiro.OperacaoContaException;
+                                         ^
+  symbol:   class OperacaoContaException
+  location: package com.algaworks.cursojava.financeiro
+ContaPagar.java:5: error: cannot find symbol
+public class ContaPagar extends Conta{
+                                ^
+  symbol: class Conta
+ContaPagar.java:7: error: cannot find symbol
+    private Fornecedor fornecedor;
+            ^
+  symbol:   class Fornecedor
+  location: class ContaPagar
+ContaPagar.java:13: error: cannot find symbol
+    public ContaPagar(Fornecedor fornecedor, String descricao, Double valor, String dataVencimento) {
+                      ^
+  symbol:   class Fornecedor
+  location: class ContaPagar
+ContaPagar.java:22: error: cannot find symbol
+    public void pagar() throws OperacaoContaException {
+                               ^
+  symbol:   class OperacaoContaException
+  location: class ContaPagar
+ContaPagar.java:40: error: cannot find symbol
+    public Fornecedor getFornecedor() {
+           ^
+  symbol:   class Fornecedor
+  location: class ContaPagar
+ContaPagar.java:44: error: cannot find symbol
+    public void setFornecedor(Fornecedor fornecedor) {
+                              ^
+  symbol:   class Fornecedor
+  location: class ContaPagar
+ContaPagar.java:16: error: cannot find symbol
+        this.setDescricao(descricao);
+            ^
+  symbol: method setDescricao(String)
+ContaPagar.java:17: error: cannot find symbol
+        this.setValor(valor);
+            ^
+  symbol: method setValor(Double)
+ContaPagar.java:18: error: cannot find symbol
+        this.setDataVencimento(dataVencimento);
+            ^
+  symbol: method setDataVencimento(String)
+ContaPagar.java:24: error: cannot find symbol
+        switch (this.getSituacaoConta()) {
+                    ^
+  symbol: method getSituacaoConta()
+ContaPagar.java:27: error: cannot find symbol
+                throw new OperacaoContaException("N√£o posso pagar uma conta que j√° foi paga.");
+                          ^
+  symbol:   class OperacaoContaException
+  location: class ContaPagar
+ContaPagar.java:29: error: cannot find symbol
+                throw new OperacaoContaException("N√£o posso pagar uma conta que j√° foi cancelada.");
+                          ^
+  symbol:   class OperacaoContaException
+  location: class ContaPagar
+ContaPagar.java:31: error: cannot find symbol
+                this.situacaoConta = SituacaoConta.PAGA;
+                    ^
+  symbol: variable situacaoConta
+ContaPagar.java:31: error: cannot find symbol
+                this.situacaoConta = SituacaoConta.PAGA;
+                                     ^
+  symbol:   variable SituacaoConta
+  location: class ContaPagar
+ContaPagar.java:33: error: cannot find symbol
+                    "Pagando conta " + this.getDescricao() +
+                                           ^
+  symbol: method getDescricao()
+ContaPagar.java:34: error: cannot find symbol
+                    " no valor de " + this.getValor() +
+                                          ^
+  symbol: method getValor()
+ContaPagar.java:35: error: cannot find symbol
+                    " com vencimento em " + this.getDataVencimento() + "...");
+                                                ^
+  symbol: method getDataVencimento()
+ContaPagar.java:48: error: method does not override or implement a method from a supertype
+    @Override
+    ^
+ContaPagar.java:54: error: cannot find symbol
+        System.out.println("Descri√ß√£o: " + this.getDescricao());
+                                                 ^
+  symbol: method getDescricao()
+ContaPagar.java:55: error: cannot find symbol
+        System.out.println("Valor: " + this.getValor());
+                                           ^
+  symbol: method getValor()
+ContaPagar.java:56: error: cannot find symbol
+        System.out.println("Vencimento: " + this.getDataVencimento());
+                                                ^
+  symbol: method getDataVencimento()
+ContaPagar.java:57: error: cannot find symbol
+        System.out.println("Situa√ß√£o: " + this.getSituacaoConta());
+                                                ^
+  symbol: method getSituacaoConta()
+23 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ ContaReceber.java 
+ContaReceber.java:3: error: cannot find symbol
+import com.algaworks.cursojava.financeiro.OperacaoContaException;
+                                         ^
+  symbol:   class OperacaoContaException
+  location: package com.algaworks.cursojava.financeiro
+ContaReceber.java:5: error: cannot find symbol
+public class ContaReceber extends Conta{
+                                  ^
+  symbol: class Conta
+ContaReceber.java:7: error: cannot find symbol
+	private Cliente cliente;
+	        ^
+  symbol:   class Cliente
+  location: class ContaReceber
+ContaReceber.java:9: error: cannot find symbol
+	public ContaReceber(Cliente cliente, String descricao, Double valor, String dataVencimento) {
+	                    ^
+  symbol:   class Cliente
+  location: class ContaReceber
+ContaReceber.java:20: error: cannot find symbol
+	public void receber() throws OperacaoContaException {
+	                             ^
+  symbol:   class OperacaoContaException
+  location: class ContaReceber
+ContaReceber.java:41: error: cannot find symbol
+	public void cancelar() throws OperacaoContaException {
+	                              ^
+  symbol:   class OperacaoContaException
+  location: class ContaReceber
+ContaReceber.java:50: error: cannot find symbol
+	public Cliente getCliente() {
+	       ^
+  symbol:   class Cliente
+  location: class ContaReceber
+ContaReceber.java:53: error: cannot find symbol
+	public void setCliente(Cliente cliente) {
+	                       ^
+  symbol:   class Cliente
+  location: class ContaReceber
+ContaReceber.java:11: error: cannot find symbol
+		this.setDescricao(descricao);
+		    ^
+  symbol: method setDescricao(String)
+ContaReceber.java:12: error: cannot find symbol
+		this.setValor(valor);
+		    ^
+  symbol: method setValor(Double)
+ContaReceber.java:13: error: cannot find symbol
+		this.setDataVencimento(dataVencimento);
+		    ^
+  symbol: method setDataVencimento(String)
+ContaReceber.java:22: error: cannot find symbol
+		switch (this.getSituacaoConta()){
+		            ^
+  symbol: method getSituacaoConta()
+ContaReceber.java:25: error: cannot find symbol
+				throw new OperacaoContaException("N√£o posso receber uma conta que j√° foi paga.");			
+				          ^
+  symbol:   class OperacaoContaException
+  location: class ContaReceber
+ContaReceber.java:28: error: cannot find symbol
+				throw new OperacaoContaException("N√£o posso receber uma conta que j√° foi cancelada.");			
+				          ^
+  symbol:   class OperacaoContaException
+  location: class ContaReceber
+ContaReceber.java:31: error: cannot find symbol
+				this.situacaoConta = SituacaoConta.PAGA;
+				    ^
+  symbol: variable situacaoConta
+ContaReceber.java:31: error: cannot find symbol
+				this.situacaoConta = SituacaoConta.PAGA;
+				                     ^
+  symbol:   variable SituacaoConta
+  location: class ContaReceber
+ContaReceber.java:33: error: cannot find symbol
+					"Recebendo conta " + this.getDescricao() +
+					                         ^
+  symbol: method getDescricao()
+ContaReceber.java:34: error: cannot find symbol
+					" no valor de " + this.getValor() +
+					                      ^
+  symbol: method getValor()
+ContaReceber.java:35: error: cannot find symbol
+					" com vencimento em " + this.getDataVencimento() + "...");	
+					                            ^
+  symbol: method getDataVencimento()
+ContaReceber.java:43: error: cannot find symbol
+		if (this.getValor() >= 50.000) {
+		        ^
+  symbol: method getValor()
+ContaReceber.java:46: error: cannot find symbol
+			super.cancelar();
+			^
+  symbol:   variable super
+  location: class ContaReceber
+ContaReceber.java:57: error: method does not override or implement a method from a supertype
+	@Override
+	^
+ContaReceber.java:63: error: cannot find symbol
+		System.out.println("Descri√ß√£o: " + this.getDescricao());
+		                                         ^
+  symbol: method getDescricao()
+ContaReceber.java:64: error: cannot find symbol
+		System.out.println("Valor: " + this.getValor());
+		                                   ^
+  symbol: method getValor()
+ContaReceber.java:65: error: cannot find symbol
+		System.out.println("Vencimento: " + this.getDataVencimento());
+		                                        ^
+  symbol: method getDataVencimento()
+ContaReceber.java:66: error: cannot find symbol
+		System.out.println("Situa√ß√£o: " + this.getSituacaoConta());
+		                                        ^
+  symbol: method getSituacaoConta()
+26 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ Fornecedor.java 
+Fornecedor.java:3: error: cannot find symbol
+public class Fornecedor extends Pessoa{
+                                ^
+  symbol: class Pessoa
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ Pessoa.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cursojava\financeiro\modelo\ SituacaoConta.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\impressao\impressoras\ ImpressoraEpson.java 
+ImpressoraEpson.java:3: error: package com.algaworks.impressora does not exist
+import com.algaworks.impressora.Impressora;
+                               ^
+ImpressoraEpson.java:4: error: package com.algaworks.impressora does not exist
+import com.algaworks.impressora.Imprimivel;
+                               ^
+ImpressoraEpson.java:6: error: cannot find symbol
+public class ImpressoraEpson implements Impressora {
+                                        ^
+  symbol: class Impressora
+ImpressoraEpson.java:9: error: cannot find symbol
+	public void imprimir(Imprimivel imprimivel) {
+	                     ^
+  symbol:   class Imprimivel
+  location: class ImpressoraEpson
+ImpressoraEpson.java:8: error: method does not override or implement a method from a supertype
+	@Override
+	^
+5 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\impressao\impressoras\ impressoraHP.java 
+impressoraHP.java:3: error: package com.algaworks.impressora does not exist
+import com.algaworks.impressora.Impressora;
+                               ^
+impressoraHP.java:4: error: package com.algaworks.impressora does not exist
+import com.algaworks.impressora.Imprimivel;
+                               ^
+impressoraHP.java:6: error: cannot find symbol
+public class impressoraHP implements Impressora{
+                                     ^
+  symbol: class Impressora
+impressoraHP.java:9: error: cannot find symbol
+	public void imprimir(Imprimivel imprimivel) {
+	                     ^
+  symbol:   class Imprimivel
+  location: class impressoraHP
+impressoraHP.java:8: error: method does not override or implement a method from a supertype
+	@Override
+	^
+5 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\impressora\ Impressora.java 
+Impressora.java:7: error: cannot find symbol
+	public abstract void imprimir(Imprimivel imprimivel); // m√©todo abstrato, sem implementa√ß√£o, sem corpo, sem chaves
+	                              ^
+  symbol:   class Imprimivel
+  location: interface Impressora
+1 error
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\impressora\ Imprimivel.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\pagamento\ Autorizavel.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\pagamento\ Cartao.java 
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\pagamento\ Operadora.java 
+Operadora.java:5: error: cannot find symbol
+	public boolean autorizar(Autorizavel autorizavel, Cartao cartao);
+	                         ^
+  symbol:   class Autorizavel
+  location: interface Operadora
+Operadora.java:5: error: cannot find symbol
+	public boolean autorizar(Autorizavel autorizavel, Cartao cartao);
+	                                                  ^
+  symbol:   class Cartao
+  location: interface Operadora
+2 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\pagamento\operadoras\ Cielo.java 
+Cielo.java:3: error: cannot find symbol
+import com.algaworks.pagamento.Autorizavel;
+                              ^
+  symbol:   class Autorizavel
+  location: package com.algaworks.pagamento
+Cielo.java:4: error: cannot find symbol
+import com.algaworks.pagamento.Cartao;
+                              ^
+  symbol:   class Cartao
+  location: package com.algaworks.pagamento
+Cielo.java:5: error: cannot find symbol
+import com.algaworks.pagamento.Operadora;
+                              ^
+  symbol:   class Operadora
+  location: package com.algaworks.pagamento
+Cielo.java:7: error: cannot find symbol
+public class Cielo implements Operadora{
+                              ^
+  symbol: class Operadora
+Cielo.java:10: error: cannot find symbol
+	public boolean autorizar(Autorizavel autorizavel, Cartao cartao) {
+	                         ^
+  symbol:   class Autorizavel
+  location: class Cielo
+Cielo.java:10: error: cannot find symbol
+	public boolean autorizar(Autorizavel autorizavel, Cartao cartao) {
+	                                                  ^
+  symbol:   class Cartao
+  location: class Cielo
+Cielo.java:9: error: method does not override or implement a method from a supertype
+	@Override
+	^
+7 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\pagamento\operadoras\ Redecard.java 
+Redecard.java:3: error: cannot find symbol
+import com.algaworks.pagamento.Autorizavel;
+                              ^
+  symbol:   class Autorizavel
+  location: package com.algaworks.pagamento
+Redecard.java:4: error: cannot find symbol
+import com.algaworks.pagamento.Cartao;
+                              ^
+  symbol:   class Cartao
+  location: package com.algaworks.pagamento
+Redecard.java:5: error: cannot find symbol
+import com.algaworks.pagamento.Operadora;
+                              ^
+  symbol:   class Operadora
+  location: package com.algaworks.pagamento
+Redecard.java:7: error: cannot find symbol
+public class Redecard implements Operadora{
+                                 ^
+  symbol: class Operadora
+Redecard.java:10: error: cannot find symbol
+	public boolean autorizar(Autorizavel autorizavel, Cartao cartao) {
+	                         ^
+  symbol:   class Autorizavel
+  location: class Redecard
+Redecard.java:10: error: cannot find symbol
+	public boolean autorizar(Autorizavel autorizavel, Cartao cartao) {
+	                                                  ^
+  symbol:   class Cartao
+  location: class Redecard
+Redecard.java:9: error: method does not override or implement a method from a supertype
+	@Override
+	^
+7 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\teste\ TesteCheckout.java 
+TesteCheckout.java:3: error: package com.algaworks.caixa does not exist
+import com.algaworks.caixa.Checkout;
+                          ^
+TesteCheckout.java:4: error: package com.algaworks.caixa does not exist
+import com.algaworks.caixa.Compra;
+                          ^
+TesteCheckout.java:5: error: package com.algaworks.impressao.impressoras does not exist
+import com.algaworks.impressao.impressoras.ImpressoraEpson;
+                                          ^
+TesteCheckout.java:6: error: package com.algaworks.impressao.impressoras does not exist
+import com.algaworks.impressao.impressoras.impressoraHP;
+                                          ^
+TesteCheckout.java:7: error: package com.algaworks.impressora does not exist
+import com.algaworks.impressora.Impressora;
+                               ^
+TesteCheckout.java:8: error: package com.algaworks.pagamento does not exist
+import com.algaworks.pagamento.Cartao;
+                              ^
+TesteCheckout.java:9: error: package com.algaworks.pagamento does not exist
+import com.algaworks.pagamento.Operadora;
+                              ^
+TesteCheckout.java:10: error: package com.algaworks.pagamento.operadoras does not exist
+import com.algaworks.pagamento.operadoras.Cielo;
+                                         ^
+TesteCheckout.java:11: error: package com.algaworks.pagamento.operadoras does not exist
+import com.algaworks.pagamento.operadoras.Redecard;
+                                         ^
+TesteCheckout.java:21: error: cannot find symbol
+		Operadora operadora = new Redecard();
+		^
+  symbol:   class Operadora
+  location: class TesteCheckout
+TesteCheckout.java:21: error: cannot find symbol
+		Operadora operadora = new Redecard();
+		                          ^
+  symbol:   class Redecard
+  location: class TesteCheckout
+TesteCheckout.java:22: error: cannot find symbol
+		Impressora impressora = new impressoraHP();
+		^
+  symbol:   class Impressora
+  location: class TesteCheckout
+TesteCheckout.java:22: error: cannot find symbol
+		Impressora impressora = new impressoraHP();
+		                            ^
+  symbol:   class impressoraHP
+  location: class TesteCheckout
+TesteCheckout.java:24: error: cannot find symbol
+		Cartao cartao = new Cartao();
+		^
+  symbol:   class Cartao
+  location: class TesteCheckout
+TesteCheckout.java:24: error: cannot find symbol
+		Cartao cartao = new Cartao();
+		                    ^
+  symbol:   class Cartao
+  location: class TesteCheckout
+TesteCheckout.java:28: error: cannot find symbol
+		Compra compra = new Compra();
+		^
+  symbol:   class Compra
+  location: class TesteCheckout
+TesteCheckout.java:28: error: cannot find symbol
+		Compra compra = new Compra();
+		                    ^
+  symbol:   class Compra
+  location: class TesteCheckout
+TesteCheckout.java:33: error: cannot find symbol
+		Checkout checkout = new Checkout(operadora, impressora);		//checkout √© uma classe que recebe uma operadora e uma impressora
+		^
+  symbol:   class Checkout
+  location: class TesteCheckout
+TesteCheckout.java:33: error: cannot find symbol
+		Checkout checkout = new Checkout(operadora, impressora);		//checkout √© uma classe que recebe uma operadora e uma impressora
+		                        ^
+  symbol:   class Checkout
+  location: class TesteCheckout
+19 errors
+10/05/2023  9:25:32,27 DESKTOP-S2JAPPD Felipe \1 - algaworks\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\utilitarios\ Console.java 
