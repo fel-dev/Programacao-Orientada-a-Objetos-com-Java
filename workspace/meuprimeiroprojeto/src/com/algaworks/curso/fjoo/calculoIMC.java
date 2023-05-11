@@ -39,6 +39,7 @@ public class calculoIMC {
 	 * Método principal para executar o programa
 	 * 
 	 * @param args Recebe os argumentos passados por linha de comando
+	 * @throws Exception Exceção lançada caso ocorra algum de digitação
 	 */
 	
 	public static void main(String[] args) {
