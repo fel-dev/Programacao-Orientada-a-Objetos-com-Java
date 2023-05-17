@@ -31,6 +31,6 @@
 			"password": ""
 		}
 	],
-	"java.project.explorer.showNonJavaResources": false,
+	"java.project.explorer.showNonJavaResources": true,
 	"java.dependency.packagePresentation": "hierarchical"
 }
