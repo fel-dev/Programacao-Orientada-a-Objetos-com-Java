@@ -2,6 +2,8 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="workspace/meuprimeiroprojeto/src"/>
-	<classpathentry kind="lib" path="lib/cadastro-cliente/mysql-connector-j-8.0.33.jar"/>
 	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="lib" path="lib/cadastro-cliente/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="lib" path="lib/introducao-xml/xstream-1.4.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib\introducao-xml\xstream-1.4.20.jar"/>
 </classpath>

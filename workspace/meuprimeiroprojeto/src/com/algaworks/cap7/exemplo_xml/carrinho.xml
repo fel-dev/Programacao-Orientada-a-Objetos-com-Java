@@ -1,0 +1,10 @@
+<carrinho>
+  <produto codigo="1">
+    <descricao>Sabonete</descricao>
+    <valor>2.29999999999999982236431605997495353221893310546875</valor>
+  </produto>
+  <produto codigo="2">
+    <descricao>shampoo</descricao>
+    <valor>8.199999999999999289457264239899814128875732421875</valor>
+  </produto>
+</carrinho>
