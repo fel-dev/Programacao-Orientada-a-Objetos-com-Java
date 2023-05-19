@@ -1,3 +1,5 @@
+package com.algaworks.cap7.exemplo_regex;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

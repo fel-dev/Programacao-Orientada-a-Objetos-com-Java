@@ -1,3 +1,5 @@
+package com.algaworks.cap7.exemplo_regex;
+
 public class SplitString {
 
 	public static void main(String[] args) {
