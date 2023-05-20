@@ -1,0 +1,5 @@
+{
+	"java.configuration.updateBuildConfiguration": "interactive",
+	"maven.terminal.useJavaHome": false,
+	"java.jdt.ls.java.home": ""
+}

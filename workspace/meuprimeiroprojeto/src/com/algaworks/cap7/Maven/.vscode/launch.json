@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "com.algaworks.curso.Main",
+			"projectName": "exemplo-maven"
+		},
+		{
+			"type": "java",
+			"name": "Executar Arquivo Java",
+			"request": "launch",
+			"mainClass": "${file}"
+		}
+	]
+}
