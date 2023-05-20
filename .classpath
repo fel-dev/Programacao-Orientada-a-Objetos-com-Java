@@ -7,4 +7,5 @@
 	<!-- <classpathentry kind="lib" path="lib/introducao-xml/xstream-1.4.7-javadoc.jar"/> -->
 	<classpathentry kind="lib" path="lib/introducao-xml/xstream-1.4.20.jar"/>
 	<classpathentry kind="lib" path="lib/introducao-json/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j/log4j-1.2.17.jar"/>
 </classpath>

@@ -1,0 +1,6 @@
+INFO main com.algaworks.cap7.logging_com_log4j.ExemploSalvandoCliente - Começando a aplicação
+WARN main com.algaworks.cap7.logging_com_log4j.dao.ClienteDAO - Impossível salvar um cliente nulo.
+INFO main com.algaworks.cap7.logging_com_log4j.ExemploSalvandoCliente - Terminando a aplicação
+2023-05-20 02:20:18,022 INFO main com.algaworks.cap7.logging_com_log4j.ExemploSalvandoCliente - Começando a aplicação
+2023-05-20 02:20:18,026 WARN main com.algaworks.cap7.logging_com_log4j.dao.ClienteDAO - Impossível salvar um cliente nulo.
+2023-05-20 02:20:18,026 INFO main com.algaworks.cap7.logging_com_log4j.ExemploSalvandoCliente - Terminando a aplicação
