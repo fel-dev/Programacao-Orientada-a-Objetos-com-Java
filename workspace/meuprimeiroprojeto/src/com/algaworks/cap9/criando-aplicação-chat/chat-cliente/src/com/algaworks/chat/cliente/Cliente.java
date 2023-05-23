@@ -23,8 +23,8 @@ public class Cliente extends JanelaGui {
 		try {
 			this.socket = new Socket("127.0.0.1", 3333);
 			
-			RecebeMensagemServidor recebeMensagemServidor = new RecebeMensagemServidor(this.socket, this);
-			new Thread(recebeMensagemServidor).start();
+			RecebeMensagemServidor recebeMensagemServidor = new RecebeMensagemServidor(this.socket, this);// criou o objeto			
+			new Thread(recebeMensagemServidor).start(); // inicia a thread que recebe as mensagens do servidor
 			
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -39,8 +39,8 @@ public class Cliente extends JanelaGui {
 		System.out.println("Envia a mensagem via socket para o servidor - " + mensagem);
 		
 		try {
-			OutputStream os = this.socket.getOutputStream();
-			DataOutput dos = new DataOutputStream(os);
+			OutputStream os = this.socket.getOutputStream(); 
+			DataOutput dos = new DataOutputStream(os);	
 			dos.writeUTF(mensagem);
 		} catch (Exception e) {
 			e.printStackTrace();
