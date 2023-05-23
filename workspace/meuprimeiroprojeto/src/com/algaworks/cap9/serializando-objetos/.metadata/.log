@@ -1,0 +1,13 @@
+!SESSION 2023-05-23 10:34:24.470 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=20.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-05-23 10:34:40.842
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-05-23 10:35:46.198
+!MESSAGE Logback config file: C:\temp\Programacao-Orientada-a-Objetos-com-Java\workspace\meuprimeiroprojeto\src\com\algaworks\cap9\serializando-objetos\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.100.20230106-1511.xml
